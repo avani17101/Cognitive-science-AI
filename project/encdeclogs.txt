@@ -1,0 +1,302 @@
+Epoch 1/150
+18/18 - 125s - loss: 3.1832 - out_rec_img_loss: 1.1063 - out_pred_voxel_loss: 0.6338 - out_rec_img_mse: 0.1223 - out_rec_img_mae: 0.2795 - lr: 0.0010
+Epoch 2/150
+18/18 - 121s - loss: 2.9822 - out_rec_img_loss: 0.9025 - out_pred_voxel_loss: 0.6502 - out_rec_img_mse: 0.0887 - out_rec_img_mae: 0.2476 - lr: 0.0010
+Epoch 3/150
+18/18 - 120s - loss: 2.3110 - out_rec_img_loss: 0.8950 - out_pred_voxel_loss: 0.6178 - out_rec_img_mse: 0.0823 - out_rec_img_mae: 0.2415 - lr: 0.0010
+Epoch 4/150
+18/18 - 121s - loss: 1.8736 - out_rec_img_loss: 0.8870 - out_pred_voxel_loss: 0.6079 - out_rec_img_mse: 0.0819 - out_rec_img_mae: 0.2406 - lr: 0.0010
+Epoch 5/150
+18/18 - 120s - loss: 1.8077 - out_rec_img_loss: 0.8820 - out_pred_voxel_loss: 0.6035 - out_rec_img_mse: 0.0791 - out_rec_img_mae: 0.2357 - lr: 0.0010
+Epoch 6/150
+18/18 - 120s - loss: 1.7991 - out_rec_img_loss: 0.8863 - out_pred_voxel_loss: 0.6034 - out_rec_img_mse: 0.0794 - out_rec_img_mae: 0.2357 - lr: 0.0010
+Epoch 7/150
+18/18 - 82s - loss: 1.7896 - out_rec_img_loss: 0.8759 - out_pred_voxel_loss: 0.6012 - out_rec_img_mse: 0.0782 - out_rec_img_mae: 0.2323 - lr: 0.0010
+Epoch 8/150
+18/18 - 76s - loss: 1.8043 - out_rec_img_loss: 0.8756 - out_pred_voxel_loss: 0.6018 - out_rec_img_mse: 0.0765 - out_rec_img_mae: 0.2278 - lr: 0.0010
+Epoch 9/150
+18/18 - 76s - loss: 1.8002 - out_rec_img_loss: 0.8660 - out_pred_voxel_loss: 0.6050 - out_rec_img_mse: 0.0771 - out_rec_img_mae: 0.2291 - lr: 0.0010
+Epoch 10/150
+18/18 - 77s - loss: 1.8013 - out_rec_img_loss: 0.8697 - out_pred_voxel_loss: 0.6006 - out_rec_img_mse: 0.0755 - out_rec_img_mae: 0.2262 - lr: 0.0010
+Epoch 11/150
+18/18 - 77s - loss: 1.8061 - out_rec_img_loss: 0.8642 - out_pred_voxel_loss: 0.6030 - out_rec_img_mse: 0.0748 - out_rec_img_mae: 0.2238 - lr: 0.0010
+Epoch 12/150
+18/18 - 76s - loss: 1.8070 - out_rec_img_loss: 0.8712 - out_pred_voxel_loss: 0.6040 - out_rec_img_mse: 0.0753 - out_rec_img_mae: 0.2246 - lr: 0.0010
+Epoch 13/150
+18/18 - 76s - loss: 1.7982 - out_rec_img_loss: 0.8695 - out_pred_voxel_loss: 0.5949 - out_rec_img_mse: 0.0753 - out_rec_img_mae: 0.2244 - lr: 0.0010
+Epoch 14/150
+18/18 - 76s - loss: 1.7972 - out_rec_img_loss: 0.8633 - out_pred_voxel_loss: 0.5982 - out_rec_img_mse: 0.0751 - out_rec_img_mae: 0.2241 - lr: 0.0010
+Epoch 15/150
+18/18 - 76s - loss: 1.7977 - out_rec_img_loss: 0.8715 - out_pred_voxel_loss: 0.5985 - out_rec_img_mse: 0.0746 - out_rec_img_mae: 0.2233 - lr: 0.0010
+Epoch 16/150
+18/18 - 76s - loss: 1.7957 - out_rec_img_loss: 0.8687 - out_pred_voxel_loss: 0.6012 - out_rec_img_mse: 0.0738 - out_rec_img_mae: 0.2222 - lr: 0.0010
+Epoch 17/150
+18/18 - 76s - loss: 1.7863 - out_rec_img_loss: 0.8663 - out_pred_voxel_loss: 0.5938 - out_rec_img_mse: 0.0745 - out_rec_img_mae: 0.2219 - lr: 0.0010
+Epoch 18/150
+18/18 - 76s - loss: 1.7921 - out_rec_img_loss: 0.8613 - out_pred_voxel_loss: 0.6000 - out_rec_img_mse: 0.0745 - out_rec_img_mae: 0.2222 - lr: 0.0010
+Epoch 19/150
+18/18 - 76s - loss: 1.7892 - out_rec_img_loss: 0.8647 - out_pred_voxel_loss: 0.6004 - out_rec_img_mse: 0.0740 - out_rec_img_mae: 0.2213 - lr: 0.0010
+Epoch 20/150
+18/18 - 76s - loss: 1.7767 - out_rec_img_loss: 0.8598 - out_pred_voxel_loss: 0.5972 - out_rec_img_mse: 0.0727 - out_rec_img_mae: 0.2187 - lr: 0.0010
+Epoch 21/150
+18/18 - 76s - loss: 1.7722 - out_rec_img_loss: 0.8523 - out_pred_voxel_loss: 0.5975 - out_rec_img_mse: 0.0722 - out_rec_img_mae: 0.2173 - lr: 0.0010
+Epoch 22/150
+18/18 - 76s - loss: 1.7770 - out_rec_img_loss: 0.8588 - out_pred_voxel_loss: 0.5962 - out_rec_img_mse: 0.0712 - out_rec_img_mae: 0.2155 - lr: 0.0010
+Epoch 23/150
+18/18 - 76s - loss: 1.7768 - out_rec_img_loss: 0.8611 - out_pred_voxel_loss: 0.5960 - out_rec_img_mse: 0.0722 - out_rec_img_mae: 0.2175 - lr: 0.0010
+Epoch 24/150
+18/18 - 76s - loss: 1.7662 - out_rec_img_loss: 0.8566 - out_pred_voxel_loss: 0.5931 - out_rec_img_mse: 0.0721 - out_rec_img_mae: 0.2169 - lr: 0.0010
+Epoch 25/150
+18/18 - 76s - loss: 1.7664 - out_rec_img_loss: 0.8500 - out_pred_voxel_loss: 0.6005 - out_rec_img_mse: 0.0704 - out_rec_img_mae: 0.2136 - lr: 0.0010
+Epoch 26/150
+18/18 - 76s - loss: 1.7614 - out_rec_img_loss: 0.8527 - out_pred_voxel_loss: 0.5951 - out_rec_img_mse: 0.0709 - out_rec_img_mae: 0.2137 - lr: 0.0010
+Epoch 27/150
+18/18 - 76s - loss: 1.7686 - out_rec_img_loss: 0.8612 - out_pred_voxel_loss: 0.5963 - out_rec_img_mse: 0.0704 - out_rec_img_mae: 0.2129 - lr: 0.0010
+Epoch 28/150
+18/18 - 76s - loss: 1.7566 - out_rec_img_loss: 0.8585 - out_pred_voxel_loss: 0.5943 - out_rec_img_mse: 0.0711 - out_rec_img_mae: 0.2134 - lr: 0.0010
+Epoch 29/150
+18/18 - 76s - loss: 1.7384 - out_rec_img_loss: 0.8504 - out_pred_voxel_loss: 0.5930 - out_rec_img_mse: 0.0712 - out_rec_img_mae: 0.2135 - lr: 0.0010
+Epoch 30/150
+18/18 - 76s - loss: 1.6732 - out_rec_img_loss: 0.8412 - out_pred_voxel_loss: 0.5914 - out_rec_img_mse: 0.0671 - out_rec_img_mae: 0.2070 - lr: 2.0000e-04
+Epoch 31/150
+18/18 - 77s - loss: 1.6337 - out_rec_img_loss: 0.8443 - out_pred_voxel_loss: 0.5930 - out_rec_img_mse: 0.0654 - out_rec_img_mae: 0.2031 - lr: 2.0000e-04
+Epoch 32/150
+18/18 - 76s - loss: 1.6249 - out_rec_img_loss: 0.8359 - out_pred_voxel_loss: 0.5908 - out_rec_img_mse: 0.0649 - out_rec_img_mae: 0.2021 - lr: 2.0000e-04
+Epoch 33/150
+18/18 - 76s - loss: 1.6287 - out_rec_img_loss: 0.8354 - out_pred_voxel_loss: 0.5929 - out_rec_img_mse: 0.0632 - out_rec_img_mae: 0.1997 - lr: 2.0000e-04
+Epoch 34/150
+18/18 - 76s - loss: 1.6274 - out_rec_img_loss: 0.8323 - out_pred_voxel_loss: 0.5940 - out_rec_img_mse: 0.0627 - out_rec_img_mae: 0.1983 - lr: 2.0000e-04
+Epoch 35/150
+18/18 - 76s - loss: 1.6258 - out_rec_img_loss: 0.8310 - out_pred_voxel_loss: 0.5924 - out_rec_img_mse: 0.0611 - out_rec_img_mae: 0.1952 - lr: 2.0000e-04
+Epoch 36/150
+18/18 - 76s - loss: 1.6165 - out_rec_img_loss: 0.8258 - out_pred_voxel_loss: 0.5908 - out_rec_img_mse: 0.0617 - out_rec_img_mae: 0.1963 - lr: 2.0000e-04
+Epoch 37/150
+18/18 - 76s - loss: 1.6185 - out_rec_img_loss: 0.8255 - out_pred_voxel_loss: 0.5906 - out_rec_img_mse: 0.0617 - out_rec_img_mae: 0.1959 - lr: 2.0000e-04
+Epoch 38/150
+18/18 - 76s - loss: 1.6172 - out_rec_img_loss: 0.8271 - out_pred_voxel_loss: 0.5891 - out_rec_img_mse: 0.0599 - out_rec_img_mae: 0.1929 - lr: 2.0000e-04
+Epoch 39/150
+18/18 - 76s - loss: 1.6127 - out_rec_img_loss: 0.8212 - out_pred_voxel_loss: 0.5884 - out_rec_img_mse: 0.0596 - out_rec_img_mae: 0.1921 - lr: 2.0000e-04
+Epoch 40/150
+18/18 - 76s - loss: 1.6216 - out_rec_img_loss: 0.8256 - out_pred_voxel_loss: 0.5900 - out_rec_img_mse: 0.0592 - out_rec_img_mae: 0.1916 - lr: 2.0000e-04
+Epoch 41/150
+18/18 - 76s - loss: 1.6204 - out_rec_img_loss: 0.8229 - out_pred_voxel_loss: 0.5906 - out_rec_img_mse: 0.0569 - out_rec_img_mae: 0.1871 - lr: 2.0000e-04
+Epoch 42/150
+18/18 - 76s - loss: 1.6205 - out_rec_img_loss: 0.8265 - out_pred_voxel_loss: 0.5894 - out_rec_img_mse: 0.0570 - out_rec_img_mae: 0.1871 - lr: 2.0000e-04
+Epoch 43/150
+18/18 - 76s - loss: 1.6207 - out_rec_img_loss: 0.8250 - out_pred_voxel_loss: 0.5891 - out_rec_img_mse: 0.0575 - out_rec_img_mae: 0.1872 - lr: 2.0000e-04
+Epoch 44/150
+18/18 - 76s - loss: 1.6082 - out_rec_img_loss: 0.8127 - out_pred_voxel_loss: 0.5892 - out_rec_img_mse: 0.0544 - out_rec_img_mae: 0.1812 - lr: 2.0000e-04
+Epoch 45/150
+18/18 - 76s - loss: 1.6286 - out_rec_img_loss: 0.8268 - out_pred_voxel_loss: 0.5938 - out_rec_img_mse: 0.0560 - out_rec_img_mae: 0.1841 - lr: 2.0000e-04
+Epoch 46/150
+18/18 - 76s - loss: 1.6157 - out_rec_img_loss: 0.8142 - out_pred_voxel_loss: 0.5920 - out_rec_img_mse: 0.0538 - out_rec_img_mae: 0.1805 - lr: 2.0000e-04
+Epoch 47/150
+18/18 - 76s - loss: 1.6083 - out_rec_img_loss: 0.8117 - out_pred_voxel_loss: 0.5885 - out_rec_img_mse: 0.0528 - out_rec_img_mae: 0.1784 - lr: 2.0000e-04
+Epoch 48/150
+18/18 - 76s - loss: 1.6078 - out_rec_img_loss: 0.8086 - out_pred_voxel_loss: 0.5888 - out_rec_img_mse: 0.0515 - out_rec_img_mae: 0.1757 - lr: 2.0000e-04
+Epoch 49/150
+18/18 - 76s - loss: 1.6114 - out_rec_img_loss: 0.8086 - out_pred_voxel_loss: 0.5901 - out_rec_img_mse: 0.0521 - out_rec_img_mae: 0.1764 - lr: 2.0000e-04
+Epoch 50/150
+18/18 - 76s - loss: 1.6154 - out_rec_img_loss: 0.8107 - out_pred_voxel_loss: 0.5919 - out_rec_img_mse: 0.0513 - out_rec_img_mae: 0.1748 - lr: 2.0000e-04
+Epoch 51/150
+18/18 - 77s - loss: 1.6110 - out_rec_img_loss: 0.8116 - out_pred_voxel_loss: 0.5900 - out_rec_img_mse: 0.0516 - out_rec_img_mae: 0.1757 - lr: 2.0000e-04
+Epoch 52/150
+18/18 - 76s - loss: 1.6051 - out_rec_img_loss: 0.8048 - out_pred_voxel_loss: 0.5895 - out_rec_img_mse: 0.0505 - out_rec_img_mae: 0.1730 - lr: 2.0000e-04
+Epoch 53/150
+18/18 - 76s - loss: 1.6011 - out_rec_img_loss: 0.8013 - out_pred_voxel_loss: 0.5893 - out_rec_img_mse: 0.0505 - out_rec_img_mae: 0.1730 - lr: 2.0000e-04
+Epoch 54/150
+18/18 - 76s - loss: 1.6093 - out_rec_img_loss: 0.8067 - out_pred_voxel_loss: 0.5925 - out_rec_img_mse: 0.0494 - out_rec_img_mae: 0.1699 - lr: 2.0000e-04
+Epoch 55/150
+
+18/18 - 76s - loss: 1.6020 - out_rec_img_loss: 0.7991 - out_pred_voxel_loss: 0.5884 - out_rec_img_mse: 0.0485 - out_rec_img_mae: 0.1683 - lr: 2.0000e-04
+Epoch 56/150
+18/18 - 76s - loss: 1.5984 - out_rec_img_loss: 0.7988 - out_pred_voxel_loss: 0.5881 - out_rec_img_mse: 0.0493 - out_rec_img_mae: 0.1691 - lr: 2.0000e-04
+Epoch 57/150
+18/18 - 76s - loss: 1.6094 - out_rec_img_loss: 0.8053 - out_pred_voxel_loss: 0.5917 - out_rec_img_mse: 0.0490 - out_rec_img_mae: 0.1689 - lr: 2.0000e-04
+Epoch 58/150
+18/18 - 76s - loss: 1.5941 - out_rec_img_loss: 0.7922 - out_pred_voxel_loss: 0.5887 - out_rec_img_mse: 0.0478 - out_rec_img_mae: 0.1663 - lr: 2.0000e-04
+Epoch 59/150
+18/18 - 76s - loss: 1.5993 - out_rec_img_loss: 0.7965 - out_pred_voxel_loss: 0.5886 - out_rec_img_mse: 0.0481 - out_rec_img_mae: 0.1672 - lr: 2.0000e-04
+Epoch 60/150
+18/18 - 76s - loss: 1.5758 - out_rec_img_loss: 0.7837 - out_pred_voxel_loss: 0.5871 - out_rec_img_mse: 0.0432 - out_rec_img_mae: 0.1566 - lr: 4.0000e-05
+Epoch 61/150
+18/18 - 76s - loss: 1.5360 - out_rec_img_loss: 0.7703 - out_pred_voxel_loss: 0.5857 - out_rec_img_mse: 0.0400 - out_rec_img_mae: 0.1480 - lr: 4.0000e-05
+Epoch 62/150
+18/18 - 76s - loss: 1.5230 - out_rec_img_loss: 0.7656 - out_pred_voxel_loss: 0.5863 - out_rec_img_mse: 0.0380 - out_rec_img_mae: 0.1433 - lr: 4.0000e-05
+Epoch 63/150
+18/18 - 76s - loss: 1.5103 - out_rec_img_loss: 0.7581 - out_pred_voxel_loss: 0.5834 - out_rec_img_mse: 0.0357 - out_rec_img_mae: 0.1384 - lr: 4.0000e-05
+Epoch 64/150
+18/18 - 76s - loss: 1.5059 - out_rec_img_loss: 0.7503 - out_pred_voxel_loss: 0.5863 - out_rec_img_mse: 0.0349 - out_rec_img_mae: 0.1363 - lr: 4.0000e-05
+Epoch 65/150
+18/18 - 76s - loss: 1.5037 - out_rec_img_loss: 0.7454 - out_pred_voxel_loss: 0.5881 - out_rec_img_mse: 0.0345 - out_rec_img_mae: 0.1351 - lr: 4.0000e-05
+Epoch 66/150
+18/18 - 75s - loss: 1.5053 - out_rec_img_loss: 0.7472 - out_pred_voxel_loss: 0.5872 - out_rec_img_mse: 0.0341 - out_rec_img_mae: 0.1344 - lr: 4.0000e-05
+Epoch 67/150
+18/18 - 76s - loss: 1.4949 - out_rec_img_loss: 0.7396 - out_pred_voxel_loss: 0.5836 - out_rec_img_mse: 0.0328 - out_rec_img_mae: 0.1316 - lr: 4.0000e-05
+Epoch 68/150
+18/18 - 76s - loss: 1.5082 - out_rec_img_loss: 0.7493 - out_pred_voxel_loss: 0.5858 - out_rec_img_mse: 0.0342 - out_rec_img_mae: 0.1339 - lr: 4.0000e-05
+Epoch 69/150
+18/18 - 76s - loss: 1.5024 - out_rec_img_loss: 0.7423 - out_pred_voxel_loss: 0.5860 - out_rec_img_mse: 0.0329 - out_rec_img_mae: 0.1317 - lr: 4.0000e-05
+Epoch 70/150
+18/18 - 76s - loss: 1.5044 - out_rec_img_loss: 0.7431 - out_pred_voxel_loss: 0.5860 - out_rec_img_mse: 0.0332 - out_rec_img_mae: 0.1317 - lr: 4.0000e-05
+Epoch 71/150
+18/18 - 77s - loss: 1.5027 - out_rec_img_loss: 0.7390 - out_pred_voxel_loss: 0.5875 - out_rec_img_mse: 0.0320 - out_rec_img_mae: 0.1292 - lr: 4.0000e-05
+Epoch 72/150
+18/18 - 76s - loss: 1.5002 - out_rec_img_loss: 0.7376 - out_pred_voxel_loss: 0.5861 - out_rec_img_mse: 0.0312 - out_rec_img_mae: 0.1277 - lr: 4.0000e-05
+Epoch 73/150
+18/18 - 76s - loss: 1.4994 - out_rec_img_loss: 0.7371 - out_pred_voxel_loss: 0.5850 - out_rec_img_mse: 0.0313 - out_rec_img_mae: 0.1276 - lr: 4.0000e-05
+Epoch 74/150
+18/18 - 76s - loss: 1.5033 - out_rec_img_loss: 0.7378 - out_pred_voxel_loss: 0.5874 - out_rec_img_mse: 0.0309 - out_rec_img_mae: 0.1263 - lr: 4.0000e-05
+Epoch 75/150
+18/18 - 76s - loss: 1.4929 - out_rec_img_loss: 0.7293 - out_pred_voxel_loss: 0.5847 - out_rec_img_mse: 0.0301 - out_rec_img_mae: 0.1244 - lr: 4.0000e-05
+Epoch 76/150
+18/18 - 76s - loss: 1.4971 - out_rec_img_loss: 0.7289 - out_pred_voxel_loss: 0.5888 - out_rec_img_mse: 0.0297 - out_rec_img_mae: 0.1235 - lr: 4.0000e-05
+Epoch 77/150
+18/18 - 76s - loss: 1.4879 - out_rec_img_loss: 0.7242 - out_pred_voxel_loss: 0.5835 - out_rec_img_mse: 0.0294 - out_rec_img_mae: 0.1228 - lr: 4.0000e-05
+Epoch 78/150
+18/18 - 76s - loss: 1.4927 - out_rec_img_loss: 0.7245 - out_pred_voxel_loss: 0.5873 - out_rec_img_mse: 0.0294 - out_rec_img_mae: 0.1226 - lr: 4.0000e-05
+Epoch 79/150
+18/18 - 76s - loss: 1.4878 - out_rec_img_loss: 0.7216 - out_pred_voxel_loss: 0.5851 - out_rec_img_mse: 0.0290 - out_rec_img_mae: 0.1220 - lr: 4.0000e-05
+Epoch 80/150
+18/18 - 76s - loss: 1.4865 - out_rec_img_loss: 0.7210 - out_pred_voxel_loss: 0.5840 - out_rec_img_mse: 0.0286 - out_rec_img_mae: 0.1208 - lr: 4.0000e-05
+Epoch 81/150
+18/18 - 76s - loss: 1.4862 - out_rec_img_loss: 0.7189 - out_pred_voxel_loss: 0.5858 - out_rec_img_mse: 0.0285 - out_rec_img_mae: 0.1206 - lr: 4.0000e-05
+Epoch 82/150
+18/18 - 76s - loss: 1.4832 - out_rec_img_loss: 0.7143 - out_pred_voxel_loss: 0.5869 - out_rec_img_mse: 0.0279 - out_rec_img_mae: 0.1198 - lr: 4.0000e-05
+Epoch 83/150
+18/18 - 75s - loss: 1.4834 - out_rec_img_loss: 0.7143 - out_pred_voxel_loss: 0.5870 - out_rec_img_mse: 0.0274 - out_rec_img_mae: 0.1183 - lr: 4.0000e-05
+Epoch 84/150
+18/18 - 76s - loss: 1.4775 - out_rec_img_loss: 0.7098 - out_pred_voxel_loss: 0.5848 - out_rec_img_mse: 0.0273 - out_rec_img_mae: 0.1176 - lr: 4.0000e-05
+Epoch 85/150
+18/18 - 76s - loss: 1.4776 - out_rec_img_loss: 0.7093 - out_pred_voxel_loss: 0.5850 - out_rec_img_mse: 0.0275 - out_rec_img_mae: 0.1178 - lr: 4.0000e-05
+Epoch 86/150
+18/18 - 76s - loss: 1.4765 - out_rec_img_loss: 0.7067 - out_pred_voxel_loss: 0.5861 - out_rec_img_mse: 0.0266 - out_rec_img_mae: 0.1162 - lr: 4.0000e-05
+Epoch 87/150
+18/18 - 76s - loss: 1.4811 - out_rec_img_loss: 0.7110 - out_pred_voxel_loss: 0.5862 - out_rec_img_mse: 0.0264 - out_rec_img_mae: 0.1156 - lr: 4.0000e-05
+Epoch 88/150
+18/18 - 76s - loss: 1.4745 - out_rec_img_loss: 0.7049 - out_pred_voxel_loss: 0.5856 - out_rec_img_mse: 0.0261 - out_rec_img_mae: 0.1143 - lr: 4.0000e-05
+Epoch 89/150
+18/18 - 76s - loss: 1.4750 - out_rec_img_loss: 0.7052 - out_pred_voxel_loss: 0.5854 - out_rec_img_mse: 0.0263 - out_rec_img_mae: 0.1143 - lr: 4.0000e-05
+Epoch 90/150
+18/18 - 76s - loss: 1.4640 - out_rec_img_loss: 0.6944 - out_pred_voxel_loss: 0.5864 - out_rec_img_mse: 0.0249 - out_rec_img_mae: 0.1109 - lr: 8.0000e-06
+Epoch 91/150
+18/18 - 76s - loss: 1.4466 - out_rec_img_loss: 0.6844 - out_pred_voxel_loss: 0.5839 - out_rec_img_mse: 0.0228 - out_rec_img_mae: 0.1051 - lr: 8.0000e-06
+Epoch 92/150
+18/18 - 76s - loss: 1.4265 - out_rec_img_loss: 0.6687 - out_pred_voxel_loss: 0.5833 - out_rec_img_mse: 0.0217 - out_rec_img_mae: 0.1017 - lr: 8.0000e-06
+Epoch 93/150
+18/18 - 76s - loss: 1.4266 - out_rec_img_loss: 0.6688 - out_pred_voxel_loss: 0.5858 - out_rec_img_mse: 0.0211 - out_rec_img_mae: 0.0995 - lr: 8.0000e-06
+Epoch 94/150
+18/18 - 76s - loss: 1.4201 - out_rec_img_loss: 0.6633 - out_pred_voxel_loss: 0.5864 - out_rec_img_mse: 0.0207 - out_rec_img_mae: 0.0980 - lr: 8.0000e-06
+Epoch 95/150
+18/18 - 76s - loss: 1.4156 - out_rec_img_loss: 0.6602 - out_pred_voxel_loss: 0.5861 - out_rec_img_mse: 0.0204 - out_rec_img_mae: 0.0972 - lr: 8.0000e-06
+Epoch 96/150
+18/18 - 76s - loss: 1.4183 - out_rec_img_loss: 0.6639 - out_pred_voxel_loss: 0.5860 - out_rec_img_mse: 0.0205 - out_rec_img_mae: 0.0974 - lr: 8.0000e-06
+Epoch 97/150
+18/18 - 76s - loss: 1.4086 - out_rec_img_loss: 0.6558 - out_pred_voxel_loss: 0.5850 - out_rec_img_mse: 0.0198 - out_rec_img_mae: 0.0953 - lr: 8.0000e-06
+Epoch 98/150
+18/18 - 76s - loss: 1.4063 - out_rec_img_loss: 0.6527 - out_pred_voxel_loss: 0.5862 - out_rec_img_mse: 0.0202 - out_rec_img_mae: 0.0966 - lr: 8.0000e-06
+Epoch 99/150
+18/18 - 76s - loss: 1.4072 - out_rec_img_loss: 0.6553 - out_pred_voxel_loss: 0.5849 - out_rec_img_mse: 0.0201 - out_rec_img_mae: 0.0962 - lr: 8.0000e-06
+Epoch 100/150
+18/18 - 76s - loss: 1.4119 - out_rec_img_loss: 0.6568 - out_pred_voxel_loss: 0.5883 - out_rec_img_mse: 0.0195 - out_rec_img_mae: 0.0946 - lr: 8.0000e-06
+Epoch 101/150
+18/18 - 77s - loss: 1.4031 - out_rec_img_loss: 0.6509 - out_pred_voxel_loss: 0.5856 - out_rec_img_mse: 0.0193 - out_rec_img_mae: 0.0938 - lr: 8.0000e-06
+Epoch 102/150
+18/18 - 76s - loss: 1.3995 - out_rec_img_loss: 0.6470 - out_pred_voxel_loss: 0.5861 - out_rec_img_mse: 0.0193 - out_rec_img_mae: 0.0941 - lr: 8.0000e-06
+Epoch 103/150
+18/18 - 76s - loss: 1.3951 - out_rec_img_loss: 0.6457 - out_pred_voxel_loss: 0.5830 - out_rec_img_mse: 0.0192 - out_rec_img_mae: 0.0930 - lr: 8.0000e-06
+Epoch 104/150
+18/18 - 76s - loss: 1.3976 - out_rec_img_loss: 0.6473 - out_pred_voxel_loss: 0.5840 - out_rec_img_mse: 0.0194 - out_rec_img_mae: 0.0942 - lr: 8.0000e-06
+Epoch 105/150
+18/18 - 76s - loss: 1.3980 - out_rec_img_loss: 0.6464 - out_pred_voxel_loss: 0.5853 - out_rec_img_mse: 0.0188 - out_rec_img_mae: 0.0925 - lr: 8.0000e-06
+Epoch 106/150
+18/18 - 76s - loss: 1.3947 - out_rec_img_loss: 0.6415 - out_pred_voxel_loss: 0.5870 - out_rec_img_mse: 0.0186 - out_rec_img_mae: 0.0921 - lr: 8.0000e-06
+Epoch 107/150
+18/18 - 76s - loss: 1.3979 - out_rec_img_loss: 0.6465 - out_pred_voxel_loss: 0.5853 - out_rec_img_mse: 0.0190 - out_rec_img_mae: 0.0929 - lr: 8.0000e-06
+Epoch 108/150
+18/18 - 76s - loss: 1.3918 - out_rec_img_loss: 0.6412 - out_pred_voxel_loss: 0.5846 - out_rec_img_mse: 0.0186 - out_rec_img_mae: 0.0920 - lr: 8.0000e-06
+Epoch 109/150
+18/18 - 76s - loss: 1.3980 - out_rec_img_loss: 0.6439 - out_pred_voxel_loss: 0.5881 - out_rec_img_mse: 0.0186 - out_rec_img_mae: 0.0921 - lr: 8.0000e-06
+Epoch 110/150
+18/18 - 75s - loss: 1.3915 - out_rec_img_loss: 0.6424 - out_pred_voxel_loss: 0.5831 - out_rec_img_mse: 0.0184 - out_rec_img_mae: 0.0921 - lr: 8.0000e-06
+Epoch 111/150
+18/18 - 76s - loss: 1.4020 - out_rec_img_loss: 0.6496 - out_pred_voxel_loss: 0.5864 - out_rec_img_mse: 0.0190 - out_rec_img_mae: 0.0932 - lr: 8.0000e-06
+Epoch 112/150
+18/18 - 76s - loss: 1.3930 - out_rec_img_loss: 0.6402 - out_pred_voxel_loss: 0.5868 - out_rec_img_mse: 0.0180 - out_rec_img_mae: 0.0907 - lr: 8.0000e-06
+Epoch 113/150
+18/18 - 76s - loss: 1.3946 - out_rec_img_loss: 0.6471 - out_pred_voxel_loss: 0.5816 - out_rec_img_mse: 0.0182 - out_rec_img_mae: 0.0915 - lr: 8.0000e-06
+Epoch 114/150
+18/18 - 76s - loss: 1.3894 - out_rec_img_loss: 0.6401 - out_pred_voxel_loss: 0.5833 - out_rec_img_mse: 0.0182 - out_rec_img_mae: 0.0914 - lr: 8.0000e-06
+Epoch 115/150
+18/18 - 76s - loss: 1.3899 - out_rec_img_loss: 0.6378 - out_pred_voxel_loss: 0.5862 - out_rec_img_mse: 0.0177 - out_rec_img_mae: 0.0895 - lr: 8.0000e-06
+Epoch 116/150
+18/18 - 76s - loss: 1.3882 - out_rec_img_loss: 0.6361 - out_pred_voxel_loss: 0.5863 - out_rec_img_mse: 0.0182 - out_rec_img_mae: 0.0905 - lr: 8.0000e-06
+Epoch 117/150
+18/18 - 76s - loss: 1.3935 - out_rec_img_loss: 0.6381 - out_pred_voxel_loss: 0.5894 - out_rec_img_mse: 0.0181 - out_rec_img_mae: 0.0910 - lr: 8.0000e-06
+Epoch 118/150
+18/18 - 76s - loss: 1.3867 - out_rec_img_loss: 0.6382 - out_pred_voxel_loss: 0.5825 - out_rec_img_mse: 0.0182 - out_rec_img_mae: 0.0906 - lr: 8.0000e-06
+Epoch 119/150
+18/18 - 76s - loss: 1.3891 - out_rec_img_loss: 0.6329 - out_pred_voxel_loss: 0.5903 - out_rec_img_mse: 0.0178 - out_rec_img_mae: 0.0898 - lr: 8.0000e-06
+Epoch 120/150
+18/18 - 76s - loss: 1.3809 - out_rec_img_loss: 0.6268 - out_pred_voxel_loss: 0.5882 - out_rec_img_mse: 0.0176 - out_rec_img_mae: 0.0889 - lr: 1.6000e-06
+Epoch 121/150
+18/18 - 76s - loss: 1.3716 - out_rec_img_loss: 0.6219 - out_pred_voxel_loss: 0.5842 - out_rec_img_mse: 0.0168 - out_rec_img_mae: 0.0859 - lr: 1.6000e-06
+Epoch 122/150
+18/18 - 76s - loss: 1.3740 - out_rec_img_loss: 0.6253 - out_pred_voxel_loss: 0.5837 - out_rec_img_mse: 0.0167 - out_rec_img_mae: 0.0862 - lr: 1.6000e-06
+Epoch 123/150
+18/18 - 76s - loss: 1.3707 - out_rec_img_loss: 0.6208 - out_pred_voxel_loss: 0.5851 - out_rec_img_mse: 0.0165 - out_rec_img_mae: 0.0856 - lr: 1.6000e-06
+Epoch 124/150
+18/18 - 76s - loss: 1.3671 - out_rec_img_loss: 0.6181 - out_pred_voxel_loss: 0.5844 - out_rec_img_mse: 0.0164 - out_rec_img_mae: 0.0853 - lr: 1.6000e-06
+Epoch 125/150
+18/18 - 76s - loss: 1.3611 - out_rec_img_loss: 0.6127 - out_pred_voxel_loss: 0.5840 - out_rec_img_mse: 0.0162 - out_rec_img_mae: 0.0840 - lr: 1.6000e-06
+Epoch 126/150
+18/18 - 76s - loss: 1.3634 - out_rec_img_loss: 0.6120 - out_pred_voxel_loss: 0.5870 - out_rec_img_mse: 0.0161 - out_rec_img_mae: 0.0840 - lr: 1.6000e-06
+Epoch 127/150
+18/18 - 76s - loss: 1.3663 - out_rec_img_loss: 0.6182 - out_pred_voxel_loss: 0.5839 - out_rec_img_mse: 0.0162 - out_rec_img_mae: 0.0847 - lr: 1.6000e-06
+Epoch 128/150
+18/18 - 76s - loss: 1.3585 - out_rec_img_loss: 0.6116 - out_pred_voxel_loss: 0.5829 - out_rec_img_mse: 0.0158 - out_rec_img_mae: 0.0827 - lr: 1.6000e-06
+Epoch 129/150
+18/18 - 76s - loss: 1.3595 - out_rec_img_loss: 0.6115 - out_pred_voxel_loss: 0.5841 - out_rec_img_mse: 0.0162 - out_rec_img_mae: 0.0842 - lr: 1.6000e-06
+Epoch 130/150
+18/18 - 76s - loss: 1.3579 - out_rec_img_loss: 0.6079 - out_pred_voxel_loss: 0.5862 - out_rec_img_mse: 0.0160 - out_rec_img_mae: 0.0833 - lr: 1.6000e-06
+Epoch 131/150
+18/18 - 76s - loss: 1.3540 - out_rec_img_loss: 0.6033 - out_pred_voxel_loss: 0.5870 - out_rec_img_mse: 0.0159 - out_rec_img_mae: 0.0826 - lr: 1.6000e-06
+Epoch 132/150
+18/18 - 76s - loss: 1.3602 - out_rec_img_loss: 0.6125 - out_pred_voxel_loss: 0.5840 - out_rec_img_mse: 0.0159 - out_rec_img_mae: 0.0834 - lr: 1.6000e-06
+Epoch 133/150
+18/18 - 76s - loss: 1.3640 - out_rec_img_loss: 0.6146 - out_pred_voxel_loss: 0.5858 - out_rec_img_mse: 0.0162 - out_rec_img_mae: 0.0839 - lr: 1.6000e-06
+Epoch 134/150
+18/18 - 76s - loss: 1.3595 - out_rec_img_loss: 0.6116 - out_pred_voxel_loss: 0.5844 - out_rec_img_mse: 0.0163 - out_rec_img_mae: 0.0838 - lr: 1.6000e-06
+Epoch 135/150
+18/18 - 76s - loss: 1.3490 - out_rec_img_loss: 0.6011 - out_pred_voxel_loss: 0.5845 - out_rec_img_mse: 0.0153 - out_rec_img_mae: 0.0816 - lr: 1.6000e-06
+Epoch 136/150
+18/18 - 75s - loss: 1.3566 - out_rec_img_loss: 0.6075 - out_pred_voxel_loss: 0.5857 - out_rec_img_mse: 0.0158 - out_rec_img_mae: 0.0827 - lr: 1.6000e-06
+Epoch 137/150
+18/18 - 76s - loss: 1.3607 - out_rec_img_loss: 0.6125 - out_pred_voxel_loss: 0.5849 - out_rec_img_mse: 0.0159 - out_rec_img_mae: 0.0829 - lr: 1.6000e-06
+Epoch 138/150
+18/18 - 75s - loss: 1.3542 - out_rec_img_loss: 0.6052 - out_pred_voxel_loss: 0.5858 - out_rec_img_mse: 0.0156 - out_rec_img_mae: 0.0821 - lr: 1.6000e-06
+Epoch 139/150
+18/18 - 75s - loss: 1.3639 - out_rec_img_loss: 0.6154 - out_pred_voxel_loss: 0.5853 - out_rec_img_mse: 0.0161 - out_rec_img_mae: 0.0842 - lr: 1.6000e-06
+Epoch 140/150
+18/18 - 76s - loss: 1.3529 - out_rec_img_loss: 0.6073 - out_pred_voxel_loss: 0.5825 - out_rec_img_mse: 0.0160 - out_rec_img_mae: 0.0830 - lr: 1.6000e-06
+Epoch 141/150
+18/18 - 77s - loss: 1.3615 - out_rec_img_loss: 0.6118 - out_pred_voxel_loss: 0.5866 - out_rec_img_mse: 0.0160 - out_rec_img_mae: 0.0833 - lr: 1.6000e-06
+Epoch 142/150
+18/18 - 76s - loss: 1.3559 - out_rec_img_loss: 0.6062 - out_pred_voxel_loss: 0.5866 - out_rec_img_mse: 0.0158 - out_rec_img_mae: 0.0833 - lr: 1.6000e-06
+Epoch 143/150
+18/18 - 76s - loss: 1.3602 - out_rec_img_loss: 0.6106 - out_pred_voxel_loss: 0.5866 - out_rec_img_mse: 0.0158 - out_rec_img_mae: 0.0825 - lr: 1.6000e-06
+Epoch 144/150
+18/18 - 76s - loss: 1.3552 - out_rec_img_loss: 0.6045 - out_pred_voxel_loss: 0.5877 - out_rec_img_mse: 0.0158 - out_rec_img_mae: 0.0827 - lr: 1.6000e-06
+Epoch 145/150
+18/18 - 76s - loss: 1.3515 - out_rec_img_loss: 0.6017 - out_pred_voxel_loss: 0.5868 - out_rec_img_mse: 0.0155 - out_rec_img_mae: 0.0823 - lr: 1.6000e-06
+Epoch 146/150
+18/18 - 76s - loss: 1.3545 - out_rec_img_loss: 0.6035 - out_pred_voxel_loss: 0.5879 - out_rec_img_mse: 0.0157 - out_rec_img_mae: 0.0820 - lr: 1.6000e-06
+Epoch 147/150
+18/18 - 76s - loss: 1.3482 - out_rec_img_loss: 0.6013 - out_pred_voxel_loss: 0.5839 - out_rec_img_mse: 0.0154 - out_rec_img_mae: 0.0813 - lr: 1.6000e-06
+Epoch 148/150
+18/18 - 76s - loss: 1.3478 - out_rec_img_loss: 0.6012 - out_pred_voxel_loss: 0.5836 - out_rec_img_mse: 0.0154 - out_rec_img_mae: 0.0812 - lr: 1.6000e-06
+Epoch 149/150
+18/18 - 76s - loss: 1.3471 - out_rec_img_loss: 0.6043 - out_pred_voxel_loss: 0.5799 - out_rec_img_mse: 0.0156 - out_rec_img_mae: 0.0821 - lr: 1.6000e-06
+Epoch 150/150
+18/18 - 76s - loss: 1.3492 - out_rec_img_loss: 0.6055 - out_pred_voxel_loss: 0.5808 - out_rec_img_mse: 0.0157 - out_rec_img_mae: 0.0827 - lr: 3.2000e-07
+

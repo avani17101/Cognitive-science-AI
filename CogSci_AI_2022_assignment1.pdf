@@ -1,0 +1,2955 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 8 0 R /F5 16 0 R /F6 17 0 R 
+  /F7 18 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://nilearn.github.io/stable/index.html)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 311.0236 94.36291 323.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://nilearn.github.io/stable/introduction.html#installing-nilearn)
+>> /Border [ 0 0 0 ] /Rect [ 346.1329 257.0236 404.4829 269.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.frontiersin.org/articles/10.3389/fninf.2014.00014/full)
+>> /Border [ 0 0 0 ] /Rect [ 81.03291 227.0236 107.7029 239.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+9 0 obj
+<<
+/Annots [ 5 0 R 6 0 R 7 0 R ] /Contents 42 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 41 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/rordenlab/dcm2niix)
+>> /Border [ 0 0 0 ] /Rect [ 124.9429 660.0236 165.2704 672.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://nifti.nimh.nih.gov/background)
+>> /Border [ 0 0 0 ] /Rect [ 431.7629 648.0236 451.7729 660.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://nipy.org/nibabel/gettingstarted.html)
+>> /Border [ 0 0 0 ] /Rect [ 342.8229 600.0236 385.2352 612.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://nipy.org/nibabel/gettingstarted.html)
+>> /Border [ 0 0 0 ] /Rect [ 321.6929 588.0236 355.5929 600.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.pnas.org/content/87/24/9868)
+>> /Border [ 0 0 0 ] /Rect [ 155.5129 307.0236 185.1879 319.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://science.sciencemag.org/content/293/5539/2425)
+>> /Border [ 0 0 0 ] /Rect [ 171.0829 235.0236 204.361 247.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/BaseFont /Courier-Oblique /Encoding /WinAnsiEncoding /Name /F5 /Subtype /Type1 /Type /Font
+>>
+endobj
+17 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F6 /Subtype /Type1 /Type /Font
+>>
+endobj
+18 0 obj
+<<
+/BaseFont /Courier-Bold /Encoding /WinAnsiEncoding /Name /F7 /Subtype /Type1 /Type /Font
+>>
+endobj
+19 0 obj
+<<
+/Annots [ 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R ] /Contents 43 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 41 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+20 0 obj
+<<
+/Contents 44 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 41 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://carpentries-incubator.github.io/SDC-BIDS-IntroMRI/anatomy-of-nifti/index.html)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 343.6236 138.8329 355.6236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://matplotlib.org/)
+>> /Border [ 0 0 0 ] /Rect [ 228.0229 143.8624 270.8129 155.8624 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/Annots [ 21 0 R 22 0 R ] /Contents 45 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 41 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+24 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://nilearn.github.io/stable/plotting/index.html)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 527.2567 149.9529 539.2567 ] /Subtype /Link /Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/Annots [ 24 0 R ] /Contents 46 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 41 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+26 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://nilearn.github.io/stable/manipulating_images/manipulating_images.html#resampling-images)
+>> /Border [ 0 0 0 ] /Rect [ 168.2929 201.0236 221.0829 213.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+27 0 obj
+<<
+/Annots [ 26 0 R ] /Contents 47 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 41 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+28 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://nilearn.github.io/modules/generated/nilearn.input_data.NiftiMasker.html#nilearn.input_data.NiftiMasker)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 132.9611 112.6929 144.9611 ] /Subtype /Link /Type /Annot
+>>
+endobj
+29 0 obj
+<<
+/Annots [ 28 0 R ] /Contents 48 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 41 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+30 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://nilearn.github.io/modules/generated/nilearn.input_data.NiftiMasker.html#nilearn.input_data.NiftiMasker)
+>> /Border [ 0 0 0 ] /Rect [ 215.5529 499.6236 278.7445 511.6236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+31 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://nilearn.github.io/modules/generated/nilearn.input_data.NiftiMasker.html#nilearn.input_data.NiftiMasker)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 410.8393 112.6929 422.8393 ] /Subtype /Link /Type /Annot
+>>
+endobj
+32 0 obj
+<<
+/Annots [ 30 0 R 31 0 R ] /Contents 49 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 41 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+33 0 obj
+<<
+/Outlines 35 0 R /PageLabels 50 0 R /PageMode /UseNone /Pages 41 0 R /Type /Catalog
+>>
+endobj
+34 0 obj
+<<
+/Author () /CreationDate (D:20220112141401-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20220112141401-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (CS9.432.S22: Cognitive Science and AI) /Trapped /False
+>>
+endobj
+35 0 obj
+<<
+/Count 5 /First 36 0 R /Last 40 0 R /Type /Outlines
+>>
+endobj
+36 0 obj
+<<
+/Dest [ 9 0 R /XYZ 62.69291 659.0236 0 ] /Next 37 0 R /Parent 35 0 R /Title (Instructions for submission)
+>>
+endobj
+37 0 obj
+<<
+/Dest [ 9 0 R /XYZ 62.69291 404.0236 0 ] /Next 38 0 R /Parent 35 0 R /Prev 36 0 R /Title (Objective)
+>>
+endobj
+38 0 obj
+<<
+/Dest [ 19 0 R /XYZ 62.69291 765.0236 0 ] /Next 39 0 R /Parent 35 0 R /Prev 37 0 R /Title (1. Understanding Neuroimaging data)
+>>
+endobj
+39 0 obj
+<<
+/Dest [ 25 0 R /XYZ 62.69291 514.5067 0 ] /Next 40 0 R /Parent 35 0 R /Prev 38 0 R /Title (2. Image manipulation)
+>>
+endobj
+40 0 obj
+<<
+/Dest [ 27 0 R /XYZ 62.69291 189.0236 0 ] /Parent 35 0 R /Prev 39 0 R /Title (3. Masking brain images for easier Machine Learning)
+>>
+endobj
+41 0 obj
+<<
+/Count 8 /Kids [ 9 0 R 19 0 R 20 0 R 23 0 R 25 0 R 27 0 R 29 0 R 32 0 R ] /Type /Pages
+>>
+endobj
+42 0 obj
+<<
+/Length 6838
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 49.87488 0 Td (CS9.432.S22: Cognitive Science and AI) Tj T* -49.87488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 693.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 21 Tm /F2 15 Tf 18 TL -0.11836 Tw (Assignment 1 - Basic understanding and masking of brain images) Tj T* 0 Tw 192.4349 0 Td (with Nilearn) Tj T* -192.4349 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 671.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Maximum marks - 40) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 638.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Instructions for submission) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 620.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (Deadline for submission on 25th January 2022 Before 12midnight) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 614.0236 cm
+Q
+q
+1 0 0 1 62.69291 614.0236 cm
+Q
+q
+1 0 0 1 62.69291 590.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 1.597485 Tw 12 TL /F1 10 Tf 0 0 0 rg (You may do the assignment in Jupyter or Colab notebook. The output of each ) Tj /F3 10 Tf (TODO) Tj /F1 10 Tf ( should be) Tj T* 0 Tw (clearly visible within the notebook.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 584.0236 cm
+Q
+q
+1 0 0 1 62.69291 572.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (You need to submit a notebook specified by Roll Number roll_no.ipynb in Moodle before deadline.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 566.0236 cm
+Q
+q
+1 0 0 1 62.69291 554.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Include the assignment number, your name and roll number in the notebook as well for better identity.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 548.0236 cm
+Q
+q
+1 0 0 1 62.69291 536.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (No late submissions are accepted.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 530.0236 cm
+Q
+q
+1 0 0 1 62.69291 494.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm -0.029426 Tw 12 TL /F2 10 Tf 0 0 0 rg (IMPORTANT) Tj /F1 10 Tf (: Make sure that the assignment that you submit is your own work. Do not copy any part) Tj T* 0 Tw .361751 Tw (from any source including your friends, seniors or the internet. Any breach of this rule could result in) Tj T* 0 Tw (serious actions including an F grade in the course.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 488.0236 cm
+Q
+q
+1 0 0 1 62.69291 464.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .370651 Tw (Your grade will depend on the correctness of answers and output. In addition, due consideration will) Tj T* 0 Tw (be given to the clarity and details of your answers and the legibility and structure of your code.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 458.0236 cm
+Q
+q
+1 0 0 1 62.69291 446.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Unless specifically permitted, collaborations are not allowed.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 440.0236 cm
+Q
+q
+1 0 0 1 62.69291 416.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.040651 Tw (Do not copy or plagiarise, if you\222re caught for plagiarism or copying, penalties are much higher) Tj T* 0 Tw (\(including an F grade in the course\) than simply omitting that question.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 416.0236 cm
+Q
+q
+1 0 0 1 62.69291 383.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Objective) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 329.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.548314 Tw (To understand, manipulate and transform Neuroimaging data for practicing Machine Learning or Deep) Tj T* 0 Tw 2.549985 Tw (Learning. This could be an opportunity to introduce Nilearn - a Python package that will serve our) Tj T* 0 Tw .61284 Tw (objectives. Nilearn is a open-source software with good documentation, plenty of examples in the gallery) Tj T* 0 Tw (and easy-to-use.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 275.0236 cm
+q
+BT 1 0 0 1 0 38 Tm 1.139976 Tw 12 TL /F1 10 Tf 0 0 .501961 rg (Nilearn) Tj 0 0 0 rg ( provides tools for analysis techniques like functional connectivity, multivariate \(machine-learning) Tj T* 0 Tw 2.646905 Tw (based\) "decoding", but also more "basic" tools like image manipulation and visualization. From this) Tj T* 0 Tw 2.647984 Tw (assignment, we will learn how to use the basic tools from Nilearn for downloading and processing) Tj T* 0 Tw (Magnetic Resonance Imaging \(MRI\) data.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 257.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The installation of the Nilearn is pretty straight forward following ) Tj 0 0 .501961 rg (install nilearn) Tj 0 0 0 rg ( documentation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 227.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .258876 Tw 12 TL /F1 10 Tf 0 0 0 rg (If you want to read an entire functionality that Nilearn offers? Go through their online website or check out) Tj T* 0 Tw (this ) Tj 0 0 .501961 rg (article) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 215.0236 cm
+Q
+q
+1 0 0 1 62.69291 132.0236 cm
+.960784 .960784 .862745 rg
+n 0 83 469.8898 -83 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 57 Tm  T* ET
+q
+1 0 0 1 16 52 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F4 12.5 Tf 15 TL (Note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .473555 Tw (This assignment expects basic familiarity with Python. Most of the content is inspired from Nilearn) Tj T* 0 Tw (documentation. Credits to Nilearn team!) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 83 m 469.8898 83 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 83 l S
+n 469.8898 0 m 469.8898 83 l S
+Q
+Q
+q
+1 0 0 1 62.69291 126.0236 cm
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+BT 1 0 0 1 0 2 Tm 153.6799 0 Td 12 TL /F1 10 Tf 0 0 0 rg (Cognitive Science and AI - Spring 2022) Tj T* -153.6799 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+43 0 obj
+<<
+/Length 7617
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (1. Understanding Neuroimaging data) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 714.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.09811 Tw (A brief background on clinical imaging data formats and what needs to be done for processing with) Tj T* 0 Tw (Nilearn: from the scanner to computer.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 648.0236 cm
+q
+BT 1 0 0 1 0 50 Tm -0.080602 Tw 12 TL /F1 10 Tf 0 0 0 rg (From the MRI scanner, the images are collected in a raw scanner format called as DICOM \(Digital Imaging) Tj T* 0 Tw 3.541647 Tw (and Communications in Medicine\) and needs to be converted to NIfTI \(Neuroimaging Informatics) Tj T* 0 Tw -0.019349 Tw (Technology Initiative\) format to make working with the data easier. Typically, one can convert DICOM data) Tj T* 0 Tw .292485 Tw (to NIfTI using ) Tj 0 0 .501961 rg (dcm2niix) Tj 0 0 0 rg (. Learning about this conversion is not the objective of this assignment. Hence, we) Tj T* 0 Tw (skip those details. \(Optional\) The background information about NIfTI can be found ) Tj 0 0 .501961 rg (here) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 630.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (NIfTI/Nifti data) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 588.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .813984 Tw 12 TL /F1 10 Tf 0 0 0 rg (Nifti images are identified as "image.nii" or the compressed version of it as "image.nii.gz". Nilearn works) Tj T* 0 Tw .70936 Tw (with MRI data stored in the Nifti images via the dependency on ) Tj 0 0 .501961 rg (Nibabel) Tj 0 0 0 rg ( package. Many functionalities in) Tj T* 0 Tw (Nilearn accept either filenames \(the path to a nifti file\) or a ) Tj 0 0 .501961 rg (Nibabel) Tj 0 0 0 rg ( Nifti1Image object.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 570.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (3D/4D Nifti images) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 552.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (MRI data is acquired as 3D or 4D images.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 486.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .10832 Tw (3D image \(x, y, z\) is a single timepoint anatomical or T1-weighted image which is high in spatial resolution) Tj T* 0 Tw 2.423984 Tw (and differentiates easily between brain tissues. One 3D image also called as brain volume has the) Tj T* 0 Tw .446098 Tw (information encoded in a voxels similar to pixels used to display the images. Each voxel is cubic and has) Tj T* 0 Tw .385984 Tw (certain dimensions. These T1 weighted images are used to study the brain anatomy \(i.e., shape, volume,) Tj T* 0 Tw (cortical thickness, brain region\). Each slice \(2D\) can be extracted from this 3D image/volume.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 474.0236 cm
+Q
+q
+1 0 0 1 62.69291 379.0236 cm
+.960784 .960784 .862745 rg
+n 0 95 469.8898 -95 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 69 Tm  T* ET
+q
+1 0 0 1 16 64 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F4 12.5 Tf 15 TL (Note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .585984 Tw (The difference between dimension of cubic voxel and dimension of an image. Both are not same.) Tj T* 0 Tw -0.10939 Tw (This will be cleared while loading the images and looking at the loaded image properties like shape,) Tj T* 0 Tw (affine, header, etc. After the coding exercise this might become clear. Don't worry for now.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 95 m 469.8898 95 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 95 l S
+n 469.8898 0 m 469.8898 95 l S
+Q
+Q
+q
+1 0 0 1 62.69291 373.0236 cm
+Q
+q
+1 0 0 1 62.69291 295.0236 cm
+q
+BT 1 0 0 1 0 62 Tm .401654 Tw 12 TL /F1 10 Tf 0 0 0 rg (A 4D image \(x, y, z + time\) or multiple 3D volumes in time namely functional Magnetic Resonance Image) Tj T* 0 Tw 1.882126 Tw (\(fMRI\), that captures the Blood Oxygenation Level Dependent \(BOLD\) signal changes in the brain or) Tj T* 0 Tw .084985 Tw (simply brain activity. Each such 4D image is acquired using T2* weighted imaging sequence and has poor) Tj T* 0 Tw 1.499318 Tw (spatial resolution compared to anatomical acquisition. If one voxel is selected from a fMRI image, this) Tj T* 0 Tw .814985 Tw (voxel represents the ) Tj 0 0 .501961 rg (BOLD) Tj 0 0 0 rg ( signal changes in time. This information encoded in each voxel is crucial for) Tj T* 0 Tw (studying localization of activity in the brain in response to the external stimuli.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 277.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Now, Let's download the example data from the internet with Nilearn.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 211.0236 cm
+q
+BT 1 0 0 1 0 50 Tm 3.908651 Tw 12 TL /F1 10 Tf 0 0 0 rg (Downloading MRI data is pretty straight forward with Nilearn as it has entire module called as) Tj T* 0 Tw 1.50784 Tw /F3 10 Tf (nilearn.datasets) Tj /F1 10 Tf ( written to fetch example data such as anatomical, functional or atlases. Let's import it) Tj T* 0 Tw 1.234524 Tw (below and fetch famous ) Tj 0 0 .501961 rg (Haxby) Tj 0 0 0 rg ( experimental dataset that includes: anatomical, functional, masks/ROIs,) Tj T* 0 Tw .693555 Tw (experimental details in csv. For now, we explore anatomical, functional and masks. Experimental data in) Tj T* 0 Tw (csv is necessary when we do decoding or machine learning.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 98.98477 cm
+q
+q
+.952737 0 0 .952737 0 0 cm
+q
+1 0 0 1 6.6 6.927412 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 492 108 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 84 354 12 re f*
+.960784 .960784 .862745 rg
+n 0 72 24 12 re f*
+.960784 .960784 .862745 rg
+n 30 72 42 12 re f*
+.960784 .960784 .862745 rg
+n 78 72 36 12 re f*
+.960784 .960784 .862745 rg
+n 120 72 48 12 re f*
+.960784 .960784 .862745 rg
+n 0 60 78 12 re f*
+.960784 .960784 .862745 rg
+n 84 60 6 12 re f*
+.960784 .960784 .862745 rg
+n 96 60 48 12 re f*
+.960784 .960784 .862745 rg
+n 144 60 6 12 re f*
+.960784 .960784 .862745 rg
+n 150 60 66 12 re f*
+.960784 .960784 .862745 rg
+n 216 60 6 12 re f*
+.960784 .960784 .862745 rg
+n 222 60 48 12 re f*
+.960784 .960784 .862745 rg
+n 270 60 6 12 re f*
+.960784 .960784 .862745 rg
+n 276 60 24 12 re f*
+.960784 .960784 .862745 rg
+n 300 60 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 48 480 12 re f*
+.960784 .960784 .862745 rg
+n 0 24 462 12 re f*
+.960784 .960784 .862745 rg
+n 0 12 102 12 re f*
+.960784 .960784 .862745 rg
+n 0 0 198 12 re f*
+BT 1 0 0 1 0 86 Tm 12 TL /F5 10 Tf .25098 .501961 .501961 rg (# This might take a while, depending on your internet speed) Tj /F6 10 Tf 0 0 0 rg  T* /F7 10 Tf 0 .501961 0 rg (from) Tj /F6 10 Tf 0 0 0 rg ( ) Tj /F7 10 Tf 0 0 1 rg (nilearn) Tj /F6 10 Tf 0 0 0 rg ( ) Tj /F7 10 Tf 0 .501961 0 rg (import) Tj /F6 10 Tf 0 0 0 rg ( ) Tj (datasets) Tj  T* (haxby_dataset) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (datasets) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (fetch_haxby) Tj (\() Tj (data_dir) Tj .4 .4 .4 rg (=) Tj /F7 10 Tf 0 .501961 0 rg (None) Tj /F6 10 Tf 0 0 0 rg (\)) Tj  T* /F5 10 Tf .25098 .501961 .501961 rg (# by default this function returns images of second subject from the Haxby study) Tj /F6 10 Tf 0 0 0 rg  T*  T* /F5 10 Tf .25098 .501961 .501961 rg (# ignore warnings or if you don't want warnings, uncomment and run below code) Tj /F6 10 Tf 0 0 0 rg  T* /F5 10 Tf .25098 .501961 .501961 rg (# import warnings) Tj /F6 10 Tf 0 0 0 rg  T* /F5 10 Tf .25098 .501961 .501961 rg (# warnings.simplefilter\("ignore"\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+BT 1 0 0 1 0 2 Tm 153.6799 0 Td 12 TL /F1 10 Tf 0 0 0 rg (Cognitive Science and AI - Spring 2022) Tj T* -153.6799 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+44 0 obj
+<<
+/Length 9057
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .40528 Tw (They return a data structure that contains different pieces of information. We can explore them on the fly.) Tj T* 0 Tw (Before, we explore where the data is downloaded and stored.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 714.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F4 12.5 Tf 15 TL (nilearn_data: Where is the downloaded data stored?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 684.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .633516 Tw (The fetching functions download the reference datasets to the disk. They save it locally for future use, in) Tj T* 0 Tw (one of the following directories:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 678.0236 cm
+Q
+q
+1 0 0 1 62.69291 642.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (the folder specified by ) Tj /F3 10 Tf (data_dir) Tj /F1 10 Tf ( parameter in the fetching function) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (the ) Tj /F3 10 Tf (nilearn_data) Tj /F1 10 Tf ( folder in the user home folder) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 642.0236 cm
+Q
+q
+1 0 0 1 62.69291 612.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 9.028555 Tw 12 TL /F1 10 Tf 0 0 0 rg (You can check via a function a default directory nilearn will store the data with) Tj T* 0 Tw /F3 10 Tf (nilearn.datasets.get_data_dirs) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 578.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 0 30 12 re f*
+.960784 .960784 .862745 rg
+n 30 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 36 0 48 12 re f*
+.960784 .960784 .862745 rg
+n 84 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 90 0 78 12 re f*
+.960784 .960784 .862745 rg
+n 168 0 18 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F6 10 Tf 0 .501961 0 rg (print) Tj 0 0 0 rg (\() Tj (datasets) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (get_data_dirs) Tj (\(\)\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 558.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Now, Let's inspect in more details the attributes of the downloaded Haxby data.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 513.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 12 222 12 re f*
+.960784 .960784 .862745 rg
+n 0 0 30 12 re f*
+.960784 .960784 .862745 rg
+n 30 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 36 0 36 12 re f*
+.960784 .960784 .862745 rg
+n 72 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 78 0 24 12 re f*
+.960784 .960784 .862745 rg
+n 102 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 108 0 78 12 re f*
+.960784 .960784 .862745 rg
+n 186 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 192 0 24 12 re f*
+.960784 .960784 .862745 rg
+n 216 0 30 12 re f*
+BT 1 0 0 1 0 14 Tm 12 TL /F5 10 Tf .25098 .501961 .501961 rg (# The different pieces of information) Tj /F6 10 Tf 0 0 0 rg  T* 0 .501961 0 rg (print) Tj 0 0 0 rg (\() Tj 0 .501961 0 rg (sorted) Tj 0 0 0 rg (\() Tj 0 .501961 0 rg (list) Tj 0 0 0 rg (\() Tj (haxby_dataset) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (keys) Tj (\(\)\)\)\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 493.6236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Read the ) Tj /F3 10 Tf ("description") Tj /F1 10 Tf ( in more detail, which describes the contents of the dictionary:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 460.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 0 30 12 re f*
+.960784 .960784 .862745 rg
+n 30 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 36 0 78 12 re f*
+.960784 .960784 .862745 rg
+n 114 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 120 0 78 12 re f*
+.960784 .960784 .862745 rg
+n 198 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 204 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 210 0 36 12 re f*
+.960784 .960784 .862745 rg
+n 246 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 252 0 42 12 re f*
+.960784 .960784 .862745 rg
+n 294 0 12 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F6 10 Tf 0 .501961 0 rg (print) Tj 0 0 0 rg (\() Tj (haxby_dataset) Tj ([) Tj .729412 .129412 .129412 rg ('description') Tj 0 0 0 rg (]) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (decode) Tj (\() Tj .729412 .129412 .129412 rg ("utf-8") Tj 0 0 0 rg (\)\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 440.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Alright, having read the description identify the anatomical image and functional image.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 383.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 24 414 12 re f*
+.960784 .960784 .862745 rg
+n 0 12 30 12 re f*
+.960784 .960784 .862745 rg
+n 30 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 36 12 78 12 re f*
+.960784 .960784 .862745 rg
+n 114 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 120 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 126 12 12 12 re f*
+.960784 .960784 .862745 rg
+n 144 12 204 12 re f*
+.960784 .960784 .862745 rg
+n 0 0 30 12 re f*
+.960784 .960784 .862745 rg
+n 30 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 36 0 78 12 re f*
+.960784 .960784 .862745 rg
+n 114 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 120 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 126 0 12 12 re f*
+.960784 .960784 .862745 rg
+n 144 0 204 12 re f*
+BT 1 0 0 1 0 26 Tm 12 TL /F5 10 Tf .25098 .501961 .501961 rg (# TODO 1: print anatomical and functional image to locate their paths) Tj /F6 10 Tf 0 0 0 rg  T* 0 .501961 0 rg (print) Tj 0 0 0 rg (\() Tj (haxby_dataset) Tj ([) Tj (?) Tj (]\)) Tj ( ) Tj /F5 10 Tf .25098 .501961 .501961 rg (# insert anatomical image key here) Tj /F6 10 Tf 0 0 0 rg  T* 0 .501961 0 rg (print) Tj 0 0 0 rg (\() Tj (haxby_dataset) Tj ([) Tj (?) Tj (]\)) Tj ( ) Tj /F5 10 Tf .25098 .501961 .501961 rg (# insert functional image key here) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 363.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Food for thought: Are they path to Nifti images or nibabel loaded Nifti1Image?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 351.2236 cm
+Q
+q
+1 0 0 1 62.69291 268.2236 cm
+.960784 .960784 .862745 rg
+n 0 83 469.8898 -83 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 57 Tm  T* ET
+q
+1 0 0 1 16 52 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F4 12.5 Tf 15 TL (Note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .258221 Tw (By default, Nilearn returns paths as a list. The most basic functions in Nilearn requires a 3D image) Tj T* 0 Tw (rather than the list.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 83 m 469.8898 83 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 83 l S
+n 469.8898 0 m 469.8898 83 l S
+Q
+Q
+q
+1 0 0 1 62.69291 262.2236 cm
+Q
+q
+1 0 0 1 62.69291 220.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .714198 Tw (Food for thought: How many subjects images are seen in a list? What is the name of that subject? Hint:) Tj T* 0 Tw 1.647765 Tw (The name of the subject can be seen from that returned list. You could also try to download another) Tj T* 0 Tw (subject if you would like.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 202.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Load the images) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 172.2236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.622093 Tw 12 TL /F1 10 Tf 0 0 0 rg (Alright, now we have some data to work with. With the ) Tj /F3 10 Tf (image) Tj /F1 10 Tf ( module in Nilearn, we can load in and) Tj T* 0 Tw (perform many different operations on nifti images. We'll import it below:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 139.0236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 0 24 12 re f*
+.960784 .960784 .862745 rg
+n 30 0 42 12 re f*
+.960784 .960784 .862745 rg
+n 78 0 36 12 re f*
+.960784 .960784 .862745 rg
+n 120 0 30 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F7 10 Tf 0 .501961 0 rg (from) Tj /F6 10 Tf 0 0 0 rg ( ) Tj /F7 10 Tf 0 0 1 rg (nilearn) Tj /F6 10 Tf 0 0 0 rg ( ) Tj /F7 10 Tf 0 .501961 0 rg (import) Tj /F6 10 Tf 0 0 0 rg ( ) Tj (image) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 107.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL -0.131779 Tw (Now, let's load the anatomical image and functional image and check whether loaded image are still a path) Tj T* 0 Tw (to Nifti image or loaded nibabel Nifti1Image.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+BT 1 0 0 1 0 2 Tm 153.6799 0 Td 12 TL /F1 10 Tf 0 0 0 rg (Cognitive Science and AI - Spring 2022) Tj T* -153.6799 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+45 0 obj
+<<
+/Length 12068
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 691.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 72 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 48 312 12 re f*
+.960784 .960784 .862745 rg
+n 0 36 60 12 re f*
+.960784 .960784 .862745 rg
+n 66 36 6 12 re f*
+.960784 .960784 .862745 rg
+n 78 36 30 12 re f*
+.960784 .960784 .862745 rg
+n 108 36 6 12 re f*
+.960784 .960784 .862745 rg
+n 114 36 48 12 re f*
+.960784 .960784 .862745 rg
+n 162 36 6 12 re f*
+.960784 .960784 .862745 rg
+n 168 36 18 12 re f*
+.960784 .960784 .862745 rg
+n 186 36 6 12 re f*
+.960784 .960784 .862745 rg
+n 192 36 6 12 re f*
+.960784 .960784 .862745 rg
+n 198 36 6 12 re f*
+.960784 .960784 .862745 rg
+n 210 36 198 12 re f*
+.960784 .960784 .862745 rg
+n 0 24 24 12 re f*
+.960784 .960784 .862745 rg
+n 24 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 30 24 60 12 re f*
+.960784 .960784 .862745 rg
+n 90 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 12 60 12 re f*
+.960784 .960784 .862745 rg
+n 66 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 78 12 30 12 re f*
+.960784 .960784 .862745 rg
+n 108 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 114 12 48 12 re f*
+.960784 .960784 .862745 rg
+n 162 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 168 12 18 12 re f*
+.960784 .960784 .862745 rg
+n 186 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 192 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 198 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 210 12 180 12 re f*
+.960784 .960784 .862745 rg
+n 0 0 24 12 re f*
+.960784 .960784 .862745 rg
+n 24 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 30 0 60 12 re f*
+.960784 .960784 .862745 rg
+n 90 0 6 12 re f*
+BT 1 0 0 1 0 50 Tm 12 TL /F5 10 Tf .25098 .501961 .501961 rg (# TODO 2: Load anatomical image and functional image) Tj /F6 10 Tf 0 0 0 rg  T* (anatomical) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (image) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (load_img) Tj (\() Tj (img) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg (?) Tj (\)) Tj ( ) Tj /F5 10 Tf .25098 .501961 .501961 rg (# specify the relevant input here) Tj /F6 10 Tf 0 0 0 rg  T* 0 .501961 0 rg (type) Tj 0 0 0 rg (\() Tj (anatomical) Tj (\)) Tj  T* (functional) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (image) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (load_img) Tj (\() Tj (img) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg (?) Tj (\)) Tj ( ) Tj /F5 10 Tf .25098 .501961 .501961 rg (# specify the functional image) Tj /F6 10 Tf 0 0 0 rg  T* 0 .501961 0 rg (type) Tj 0 0 0 rg (\() Tj (functional) Tj (\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 671.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The difference between path to Nifti images \(not loaded in-memory\) and Nifti1Image \(loaded in-memory\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 659.8236 cm
+Q
+q
+1 0 0 1 62.69291 564.8236 cm
+.960784 .960784 .862745 rg
+n 0 95 469.8898 -95 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 69 Tm  T* ET
+q
+1 0 0 1 16 64 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F4 12.5 Tf 15 TL (Note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+BT 1 0 0 1 0 26 Tm 1.087674 Tw 12 TL /F1 10 Tf 0 0 0 rg (Nilearn's ) Tj /F3 10 Tf (image.load_img) Tj /F1 10 Tf ( is basically the same as the ) Tj /F3 10 Tf (nibabel.load) Tj /F1 10 Tf ( function, but with some extra) Tj T* 0 Tw .474104 Tw (functionality \(like loading in a list of files using wildcards\) and checks \(like whether it's really a nifti) Tj T* 0 Tw (image\).) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 95 m 469.8898 95 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 95 l S
+n 469.8898 0 m 469.8898 95 l S
+Q
+Q
+q
+1 0 0 1 62.69291 558.8236 cm
+Q
+q
+1 0 0 1 62.69291 528.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .84561 Tw (Now, examine the shape of the anatomical and functional image. The shape, affine, header, etc are the) Tj T* 0 Tw (parameters of the Nifti1Image. We can only see them when loaded as nibabel Nifti1Image.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 459.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 60 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 36 132 12 re f*
+.960784 .960784 .862745 rg
+n 138 36 6 12 re f*
+.960784 .960784 .862745 rg
+n 150 36 60 12 re f*
+.960784 .960784 .862745 rg
+n 210 36 6 12 re f*
+.960784 .960784 .862745 rg
+n 216 36 30 12 re f*
+.960784 .960784 .862745 rg
+n 0 24 132 12 re f*
+.960784 .960784 .862745 rg
+n 138 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 150 24 60 12 re f*
+.960784 .960784 .862745 rg
+n 210 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 216 24 30 12 re f*
+.960784 .960784 .862745 rg
+n 0 12 36 12 re f*
+.960784 .960784 .862745 rg
+n 36 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 42 12 132 12 re f*
+.960784 .960784 .862745 rg
+n 180 12 12 12 re f*
+.960784 .960784 .862745 rg
+n 198 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 204 12 18 12 re f*
+.960784 .960784 .862745 rg
+n 222 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 234 12 18 12 re f*
+.960784 .960784 .862745 rg
+n 252 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 264 12 18 12 re f*
+.960784 .960784 .862745 rg
+n 282 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 294 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 300 12 12 12 re f*
+.960784 .960784 .862745 rg
+n 0 0 36 12 re f*
+.960784 .960784 .862745 rg
+n 36 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 42 0 132 12 re f*
+.960784 .960784 .862745 rg
+n 180 0 12 12 re f*
+.960784 .960784 .862745 rg
+n 198 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 204 0 12 12 re f*
+.960784 .960784 .862745 rg
+n 216 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 228 0 12 12 re f*
+.960784 .960784 .862745 rg
+n 240 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 252 0 12 12 re f*
+.960784 .960784 .862745 rg
+n 264 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 276 0 24 12 re f*
+.960784 .960784 .862745 rg
+n 300 0 12 12 re f*
+BT 1 0 0 1 0 38 Tm 12 TL /F6 10 Tf 0 0 0 rg (anatomical_image_shape) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (anatomical) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (shape) Tj  T* (functional_image_shape) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (functional) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (shape) Tj  T* /F7 10 Tf 0 .501961 0 rg (assert) Tj /F6 10 Tf 0 0 0 rg (\() Tj (anatomical_image_shape) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj (\() Tj .4 .4 .4 rg (124) Tj 0 0 0 rg (,) Tj ( ) Tj .4 .4 .4 rg (256) Tj 0 0 0 rg (,) Tj ( ) Tj .4 .4 .4 rg (256) Tj 0 0 0 rg (,) Tj ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (\)\)) Tj  T* /F7 10 Tf 0 .501961 0 rg (assert) Tj /F6 10 Tf 0 0 0 rg (\() Tj (functional_image_shape) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj (\() Tj .4 .4 .4 rg (40) Tj 0 0 0 rg (,) Tj ( ) Tj .4 .4 .4 rg (64) Tj 0 0 0 rg (,) Tj ( ) Tj .4 .4 .4 rg (64) Tj 0 0 0 rg (,) Tj ( ) Tj .4 .4 .4 rg (1452) Tj 0 0 0 rg (\)\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 439.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Food for thought: Functional MRI image has how many time points acquired?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 385.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL -0.019426 Tw (The fourth dimension is the time dimension. As can be seen from the above snippet that anatomical image) Tj T* 0 Tw .575697 Tw (has single time dimension \(one brain volume 3D\) whereas functional MRI has multiple timepoints. These) Tj T* 0 Tw 1.758651 Tw (time series data are analysed for decoding and statistical analysis which we will cover in subsequent) Tj T* 0 Tw (assignments.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 343.6236 cm
+q
+BT 1 0 0 1 0 26 Tm 1.432765 Tw 12 TL /F1 10 Tf 0 0 0 rg (Also, look at the ) Tj /F3 10 Tf (affine) Tj /F1 10 Tf ( parameter similarly to how shape is extracted. This helps to get an idea about) Tj T* 0 Tw 5.189213 Tw (Anatomy of NIfTI. Additional hands on understanding of Nifti parameters can be found here) Tj T* 0 Tw 0 0 .501961 rg (Anatomy_of_Nifti) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 277.6236 cm
+q
+BT 1 0 0 1 0 50 Tm 6.00248 Tw 12 TL /F1 10 Tf 0 0 0 rg (In the "haxby2001/subj2" subdirectory of the download directory which can be found using) Tj T* 0 Tw 2.673314 Tw /F3 10 Tf (datasets.get_data_dirs\(\)) Tj /F1 10 Tf (, there are multiple nifti files with names starting with "mask". These masks) Tj T* 0 Tw .414431 Tw (outlines the Regions of Interest \(ROIs\) for this particular subject. Can you load them all at once using the) Tj T* 0 Tw 5.277674 Tw /F3 10 Tf (image.load_img) Tj /F1 10 Tf ( function with a wildcard or globbing? Assign the result in a variable named) Tj T* 0 Tw (all_mask_images, which should be a 4D Nifti1Image object.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 223.8624 cm
+q
+q
+.930106 0 0 .930106 0 0 cm
+q
+1 0 0 1 6.6 7.095962 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 504 48 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 24 492 12 re f*
+.960784 .960784 .862745 rg
+n 0 12 90 12 re f*
+.960784 .960784 .862745 rg
+n 96 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 108 12 30 12 re f*
+.960784 .960784 .862745 rg
+n 138 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 144 12 48 12 re f*
+.960784 .960784 .862745 rg
+n 192 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 198 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 204 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 0 36 12 re f*
+.960784 .960784 .862745 rg
+n 36 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 42 0 90 12 re f*
+.960784 .960784 .862745 rg
+n 132 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 138 0 30 12 re f*
+.960784 .960784 .862745 rg
+n 174 0 12 12 re f*
+.960784 .960784 .862745 rg
+n 192 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 198 0 12 12 re f*
+.960784 .960784 .862745 rg
+n 210 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 222 0 12 12 re f*
+.960784 .960784 .862745 rg
+n 234 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 246 0 12 12 re f*
+.960784 .960784 .862745 rg
+n 258 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 270 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 276 0 12 12 re f*
+BT 1 0 0 1 0 26 Tm 12 TL /F5 10 Tf .25098 .501961 .501961 rg (# TODO 3: Wildcard like path should be specificied to load all mask images at once) Tj /F6 10 Tf 0 0 0 rg  T* (all_mask_images) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (image) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (load_img) Tj (\() Tj (?) Tj (\)) Tj  T* /F7 10 Tf 0 .501961 0 rg (assert) Tj /F6 10 Tf 0 0 0 rg (\() Tj (all_mask_images) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (shape) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj (\() Tj .4 .4 .4 rg (40) Tj 0 0 0 rg (,) Tj ( ) Tj .4 .4 .4 rg (64) Tj 0 0 0 rg (,) Tj ( ) Tj .4 .4 .4 rg (64) Tj 0 0 0 rg (,) Tj ( ) Tj .4 .4 .4 rg (5) Tj 0 0 0 rg (\)\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 203.8624 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Food for thought: How many mask images are loaded into one Nifti1Image object?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 185.8624 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Data Visualization) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 143.8624 cm
+q
+BT 1 0 0 1 0 26 Tm .557633 Tw 12 TL /F1 10 Tf 0 0 0 rg (Nilearn package is popularly known for its visualization 3D and 4D brain images. Let's try to visualize 3D) Tj T* 0 Tw .770697 Tw (brain images using module ) Tj /F3 10 Tf (nilearn.plotting) Tj /F1 10 Tf (. Under the hood Nilearn uses ) Tj /F3 10 Tf (matplotlib) Tj /F1 10 Tf ( as a dependency for) Tj T* 0 Tw (visualization. You don't have to learn ) Tj 0 0 .501961 rg (Matplotlib) Tj 0 0 0 rg ( but could be an advantage for advanced usage.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 110.6624 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 0 24 12 re f*
+.960784 .960784 .862745 rg
+n 30 0 42 12 re f*
+.960784 .960784 .862745 rg
+n 78 0 36 12 re f*
+.960784 .960784 .862745 rg
+n 120 0 48 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F7 10 Tf 0 .501961 0 rg (from) Tj /F6 10 Tf 0 0 0 rg ( ) Tj /F7 10 Tf 0 0 1 rg (nilearn) Tj /F6 10 Tf 0 0 0 rg ( ) Tj /F7 10 Tf 0 .501961 0 rg (import) Tj /F6 10 Tf 0 0 0 rg ( ) Tj (plotting) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 90.66239 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Simply plot anatomical image) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+BT 1 0 0 1 0 2 Tm 153.6799 0 Td 12 TL /F1 10 Tf 0 0 0 rg (Cognitive Science and AI - Spring 2022) Tj T* -153.6799 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+46 0 obj
+<<
+/Length 10264
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 729.1453 cm
+q
+q
+.96447 0 0 .96447 0 0 cm
+q
+1 0 0 1 6.6 6.843137 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 486 36 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 12 48 12 re f*
+.960784 .960784 .862745 rg
+n 48 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 54 12 54 12 re f*
+.960784 .960784 .862745 rg
+n 108 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 114 12 60 12 re f*
+.960784 .960784 .862745 rg
+n 174 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 0 48 12 re f*
+.960784 .960784 .862745 rg
+n 48 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 54 0 24 12 re f*
+.960784 .960784 .862745 rg
+n 78 0 12 12 re f*
+.960784 .960784 .862745 rg
+n 96 0 378 12 re f*
+BT 1 0 0 1 0 14 Tm 12 TL /F6 10 Tf 0 0 0 rg (plotting) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (plot_anat) Tj (\() Tj (anatomical) Tj (\)) Tj  T* (plotting) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (show) Tj (\(\)) Tj ( ) Tj /F5 10 Tf .25098 .501961 .501961 rg (# equivalent to %matplotlib inline in Jupyter or Colab Notebook) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 697.1453 cm
+q
+BT 1 0 0 1 0 14 Tm 3.647984 Tw 12 TL /F1 10 Tf 0 0 0 rg (This displays the anatomical image of subj2 in x, y, z display directions. Inspect the parameter) Tj T* 0 Tw /F3 10 Tf (display_mode) Tj /F1 10 Tf ( to choose between one or two directions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 667.1453 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL -0.04668 Tw (Try! more cuts in 3D volume to slices and one display direction. These display directions are also called as) Tj T* 0 Tw (axial, coronal and sagittal.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 635.7067 cm
+q
+q
+.930106 0 0 .930106 0 0 cm
+q
+1 0 0 1 6.6 7.095962 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 504 24 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 0 48 12 re f*
+.960784 .960784 .862745 rg
+n 48 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 54 0 54 12 re f*
+.960784 .960784 .862745 rg
+n 108 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 114 0 60 12 re f*
+.960784 .960784 .862745 rg
+n 174 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 186 0 72 12 re f*
+.960784 .960784 .862745 rg
+n 258 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 264 0 18 12 re f*
+.960784 .960784 .862745 rg
+n 282 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 294 0 60 12 re f*
+.960784 .960784 .862745 rg
+n 354 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 360 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 366 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 372 0 12 12 re f*
+.960784 .960784 .862745 rg
+n 384 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 396 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 402 0 12 12 re f*
+.960784 .960784 .862745 rg
+n 414 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 426 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 432 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 444 0 12 12 re f*
+.960784 .960784 .862745 rg
+n 456 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 468 0 12 12 re f*
+.960784 .960784 .862745 rg
+n 480 0 12 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F6 10 Tf 0 0 0 rg (plotting) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (plot_anat) Tj (\() Tj (anatomical) Tj (,) Tj ( ) Tj (display_mode) Tj .4 .4 .4 rg (=) Tj .729412 .129412 .129412 rg ('x') Tj 0 0 0 rg (,) Tj ( ) Tj (cut_coords) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ([) Tj .4 .4 .4 rg (-) Tj (40) Tj 0 0 0 rg (,) Tj ( ) Tj .4 .4 .4 rg (-) Tj (20) Tj 0 0 0 rg (,) Tj ( ) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (,) Tj ( ) Tj .4 .4 .4 rg (20) Tj 0 0 0 rg (,) Tj ( ) Tj .4 .4 .4 rg (40) Tj 0 0 0 rg (]\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 591.7067 cm
+q
+BT 1 0 0 1 0 26 Tm 1.462651 Tw 12 TL /F1 10 Tf 0 0 0 rg (Similarly, try plotting any one mask image using ) Tj /F3 10 Tf (plotting.plot_roi) Tj /F1 10 Tf ( below. Hint: the mask images can be) Tj T* 0 Tw 2.02686 Tw (found be found in the retrieved data either the variable assigned while downloading them or path to) Tj T* 0 Tw (download directory.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 546.5067 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 12 342 12 re f*
+.960784 .960784 .862745 rg
+n 0 0 48 12 re f*
+.960784 .960784 .862745 rg
+n 48 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 54 0 48 12 re f*
+.960784 .960784 .862745 rg
+n 102 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 108 0 42 12 re f*
+.960784 .960784 .862745 rg
+n 150 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 156 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 162 0 6 12 re f*
+BT 1 0 0 1 0 14 Tm 12 TL /F5 10 Tf .25098 .501961 .501961 rg (# TODO 4: Specify the mask image input to plot ROI images) Tj /F6 10 Tf 0 0 0 rg  T* (plotting) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (plot_roi) Tj (\() Tj (roi_img) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg (?) Tj (\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 526.5067 cm
+q
+0 0 .501961 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (More_plotting_tools) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 493.5067 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (2. Image manipulation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 475.5067 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Average functional image over time \(compute mean image given 4D\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 433.5067 cm
+q
+BT 1 0 0 1 0 26 Tm 1.614985 Tw 12 TL /F1 10 Tf 0 0 0 rg (Nilearn provides some functions to make your life easier when doing array mathematics on 3D or 4D) Tj T* 0 Tw 1.979318 Tw (images. For example, to compute the mean of the functional image we can use ) Tj /F3 10 Tf (image.mean_img) Tj /F1 10 Tf ( to) Tj T* 0 Tw (compute the mean across time for every voxel in a 4D image.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 421.5067 cm
+Q
+q
+1 0 0 1 62.69291 326.5067 cm
+.960784 .960784 .862745 rg
+n 0 95 469.8898 -95 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 69 Tm  T* ET
+q
+1 0 0 1 16 64 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F4 12.5 Tf 15 TL (Note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .846651 Tw (This mean calculation can be done using NumPy given that the images are converted to NumPy) Tj T* 0 Tw .181318 Tw (data matrices. As NumPy is not designed to take directly the Nifti images. Such NumPy operations) Tj T* 0 Tw (can be easily done directly on the Nifti images with Nilearn.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 95 m 469.8898 95 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 95 l S
+n 469.8898 0 m 469.8898 95 l S
+Q
+Q
+q
+1 0 0 1 62.69291 320.5067 cm
+Q
+q
+1 0 0 1 62.69291 204.8902 cm
+q
+q
+.887925 0 0 .887925 0 0 cm
+q
+1 0 0 1 6.6 7.433063 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 528 120 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 96 474 12 re f*
+.960784 .960784 .862745 rg
+n 0 84 516 12 re f*
+.960784 .960784 .862745 rg
+n 0 72 126 12 re f*
+.960784 .960784 .862745 rg
+n 132 72 6 12 re f*
+.960784 .960784 .862745 rg
+n 144 72 30 12 re f*
+.960784 .960784 .862745 rg
+n 174 72 6 12 re f*
+.960784 .960784 .862745 rg
+n 180 72 48 12 re f*
+.960784 .960784 .862745 rg
+n 228 72 6 12 re f*
+.960784 .960784 .862745 rg
+n 234 72 24 12 re f*
+.960784 .960784 .862745 rg
+n 258 72 6 12 re f*
+.960784 .960784 .862745 rg
+n 264 72 6 12 re f*
+.960784 .960784 .862745 rg
+n 270 72 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 48 36 12 re f*
+.960784 .960784 .862745 rg
+n 36 48 6 12 re f*
+.960784 .960784 .862745 rg
+n 42 48 126 12 re f*
+.960784 .960784 .862745 rg
+n 168 48 6 12 re f*
+.960784 .960784 .862745 rg
+n 174 48 30 12 re f*
+.960784 .960784 .862745 rg
+n 210 48 12 12 re f*
+.960784 .960784 .862745 rg
+n 228 48 6 12 re f*
+.960784 .960784 .862745 rg
+n 234 48 12 12 re f*
+.960784 .960784 .862745 rg
+n 246 48 6 12 re f*
+.960784 .960784 .862745 rg
+n 258 48 12 12 re f*
+.960784 .960784 .862745 rg
+n 270 48 6 12 re f*
+.960784 .960784 .862745 rg
+n 282 48 12 12 re f*
+.960784 .960784 .862745 rg
+n 294 48 12 12 re f*
+.960784 .960784 .862745 rg
+n 0 24 360 12 re f*
+.960784 .960784 .862745 rg
+n 0 12 48 12 re f*
+.960784 .960784 .862745 rg
+n 48 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 54 12 48 12 re f*
+.960784 .960784 .862745 rg
+n 102 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 108 12 42 12 re f*
+.960784 .960784 .862745 rg
+n 150 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 156 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 162 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 0 48 12 re f*
+.960784 .960784 .862745 rg
+n 48 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 54 0 24 12 re f*
+.960784 .960784 .862745 rg
+n 78 0 12 12 re f*
+BT 1 0 0 1 0 98 Tm 12 TL /F5 10 Tf .25098 .501961 .501961 rg (# Since we already imported image module from Nilearn, we can use it again here) Tj /F6 10 Tf 0 0 0 rg  T* /F5 10 Tf .25098 .501961 .501961 rg (# TODO 5: Specify functional image as input as it is 4D and we want to average in time) Tj /F6 10 Tf 0 0 0 rg  T* (mean_functional_image) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (image) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (mean_img) Tj (\() Tj (imgs) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg (?) Tj (\)) Tj  T*  T* /F7 10 Tf 0 .501961 0 rg (assert) Tj /F6 10 Tf 0 0 0 rg (\() Tj (mean_functional_image) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (shape) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj (\() Tj .4 .4 .4 rg (40) Tj 0 0 0 rg (,) Tj ( ) Tj .4 .4 .4 rg (64) Tj 0 0 0 rg (,) Tj ( ) Tj .4 .4 .4 rg (64) Tj 0 0 0 rg (\)\)) Tj  T*  T* /F5 10 Tf .25098 .501961 .501961 rg (# TODO 6: Visualize the mean image using `plotting.plot_epi`) Tj /F6 10 Tf 0 0 0 rg  T* (plotting) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (plot_epi) Tj (\() Tj (epi_img) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg (?) Tj (\)) Tj  T* (plotting) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (show) Tj (\(\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 172.8902 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .952485 Tw (Food for thought: EPI stands for Echo Planar Imaging a way of acquiring fMRI - scanner specifications.) Tj T* 0 Tw (We don't have to go deeper into it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 154.8902 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Smooth an image) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 124.8902 cm
+q
+BT 1 0 0 1 0 14 Tm .25784 Tw 12 TL /F1 10 Tf 0 0 0 rg (Similarly, we can also do simple Gaussian smoothing using ) Tj /F3 10 Tf (image.smooth_img) Tj /F1 10 Tf ( Can we smooth the mean) Tj T* 0 Tw (functional image that is computed above?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+BT 1 0 0 1 0 2 Tm 153.6799 0 Td 12 TL /F1 10 Tf 0 0 0 rg (Cognitive Science and AI - Spring 2022) Tj T* -153.6799 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+47 0 obj
+<<
+/Length 10202
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 679.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 84 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 60 258 12 re f*
+.960784 .960784 .862745 rg
+n 0 48 168 12 re f*
+.960784 .960784 .862745 rg
+n 174 48 6 12 re f*
+.960784 .960784 .862745 rg
+n 186 48 30 12 re f*
+.960784 .960784 .862745 rg
+n 216 48 6 12 re f*
+.960784 .960784 .862745 rg
+n 222 48 60 12 re f*
+.960784 .960784 .862745 rg
+n 282 48 6 12 re f*
+.960784 .960784 .862745 rg
+n 288 48 18 12 re f*
+.960784 .960784 .862745 rg
+n 306 48 6 12 re f*
+.960784 .960784 .862745 rg
+n 312 48 6 12 re f*
+.960784 .960784 .862745 rg
+n 318 48 6 12 re f*
+.960784 .960784 .862745 rg
+n 330 48 24 12 re f*
+.960784 .960784 .862745 rg
+n 354 48 6 12 re f*
+.960784 .960784 .862745 rg
+n 360 48 6 12 re f*
+.960784 .960784 .862745 rg
+n 366 48 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 24 336 12 re f*
+.960784 .960784 .862745 rg
+n 0 12 162 12 re f*
+.960784 .960784 .862745 rg
+n 0 0 48 12 re f*
+.960784 .960784 .862745 rg
+n 48 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 54 0 48 12 re f*
+.960784 .960784 .862745 rg
+n 102 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 108 0 42 12 re f*
+.960784 .960784 .862745 rg
+n 150 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 156 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 162 0 6 12 re f*
+BT 1 0 0 1 0 62 Tm 12 TL /F5 10 Tf .25098 .501961 .501961 rg (# TODO 7: Specify the mean functional image) Tj /F6 10 Tf 0 0 0 rg  T* (smooth_mean_functional_image) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (image) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (smooth_img) Tj (\() Tj (img) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg (?) Tj (,) Tj ( ) Tj (fwhm) Tj .4 .4 .4 rg (=) Tj (8) Tj 0 0 0 rg (\)) Tj  T*  T* /F5 10 Tf .25098 .501961 .501961 rg (# Visualize the smoothed image using `plotting.plot_epi`) Tj /F6 10 Tf 0 0 0 rg  T* /F5 10 Tf .25098 .501961 .501961 rg (# TODO 8: Specify the input) Tj /F6 10 Tf 0 0 0 rg  T* (plotting) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (plot_epi) Tj (\() Tj (epi_img) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg (?) Tj (\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 659.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Mathematical tricks applied directly onto the Nifti images) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 629.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .890697 Tw (We can even do complex mathematical operations by calling directly the numpy related operations onto) Tj T* 0 Tw (the Nifti images without a necessity to convert to the numpy understandable arrays.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 548.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 72 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 48 54 12 re f*
+.960784 .960784 .862745 rg
+n 60 48 6 12 re f*
+.960784 .960784 .862745 rg
+n 72 48 30 12 re f*
+.960784 .960784 .862745 rg
+n 102 48 6 12 re f*
+.960784 .960784 .862745 rg
+n 108 48 48 12 re f*
+.960784 .960784 .862745 rg
+n 156 48 6 12 re f*
+.960784 .960784 .862745 rg
+n 162 48 78 12 re f*
+.960784 .960784 .862745 rg
+n 240 48 6 12 re f*
+.960784 .960784 .862745 rg
+n 252 48 18 12 re f*
+.960784 .960784 .862745 rg
+n 270 48 6 12 re f*
+.960784 .960784 .862745 rg
+n 276 48 60 12 re f*
+.960784 .960784 .862745 rg
+n 336 48 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 24 108 12 re f*
+.960784 .960784 .862745 rg
+n 0 0 72 12 re f*
+.960784 .960784 .862745 rg
+n 78 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 90 0 30 12 re f*
+.960784 .960784 .862745 rg
+n 120 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 126 0 48 12 re f*
+.960784 .960784 .862745 rg
+n 174 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 180 0 36 12 re f*
+.960784 .960784 .862745 rg
+n 216 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 228 0 18 12 re f*
+.960784 .960784 .862745 rg
+n 246 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 252 0 60 12 re f*
+.960784 .960784 .862745 rg
+n 312 0 6 12 re f*
+BT 1 0 0 1 0 50 Tm 12 TL /F6 10 Tf 0 0 0 rg (log_image) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (image) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (math_img) Tj (\() Tj .729412 .129412 .129412 rg ("np.log\(img\)") Tj 0 0 0 rg (,) Tj ( ) Tj (img) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg (anatomical) Tj (\)) Tj  T*  T* /F5 10 Tf .25098 .501961 .501961 rg (# negate the image) Tj /F6 10 Tf 0 0 0 rg  T*  T* (negate_image) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (image) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (math_img) Tj (\() Tj .729412 .129412 .129412 rg ("-img") Tj 0 0 0 rg (,) Tj ( ) Tj (img) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg (anatomical) Tj (\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 528.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Similarly, simply add the logarithm image computed above to anatomical image.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 483.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 12 270 12 re f*
+.960784 .960784 .862745 rg
+n 0 0 186 12 re f*
+.960784 .960784 .862745 rg
+n 192 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 204 0 30 12 re f*
+.960784 .960784 .862745 rg
+n 234 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 240 0 48 12 re f*
+.960784 .960784 .862745 rg
+n 288 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 294 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 300 0 6 12 re f*
+BT 1 0 0 1 0 14 Tm 12 TL /F5 10 Tf .25098 .501961 .501961 rg (# TODO 9: Use addition symbol with two images) Tj /F6 10 Tf 0 0 0 rg  T* (add_anatomical_img_with_log_img) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (image) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (math_img) Tj (\() Tj (?) Tj (\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 427.4236 cm
+q
+BT 1 0 0 1 0 38 Tm 1.885697 Tw 12 TL /F1 10 Tf 0 0 0 rg (Compute the voxelwise TSNR \(mean across time divided by standard deviation across time for each) Tj T* 0 Tw 1.423318 Tw (voxel\) of the functional image using ) Tj /F3 10 Tf (image.math_img) Tj /F1 10 Tf ( and assign a variable to save the computed tsnr) Tj T* 0 Tw 1.541235 Tw (image. Then, plot the image using plot_epi. Hint: use np.mean and np.std inspired by seeing how log) Tj T* 0 Tw (image is computed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 358.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 60 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 36 180 12 re f*
+.960784 .960784 .862745 rg
+n 0 24 126 12 re f*
+.960784 .960784 .862745 rg
+n 132 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 144 24 30 12 re f*
+.960784 .960784 .862745 rg
+n 174 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 180 24 48 12 re f*
+.960784 .960784 .862745 rg
+n 228 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 234 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 240 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 12 48 12 re f*
+.960784 .960784 .862745 rg
+n 48 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 54 12 48 12 re f*
+.960784 .960784 .862745 rg
+n 102 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 108 12 126 12 re f*
+.960784 .960784 .862745 rg
+n 234 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 0 48 12 re f*
+.960784 .960784 .862745 rg
+n 48 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 54 0 24 12 re f*
+.960784 .960784 .862745 rg
+n 78 0 12 12 re f*
+BT 1 0 0 1 0 38 Tm 12 TL /F5 10 Tf .25098 .501961 .501961 rg (# TODO 10: Use Numpy functions) Tj /F6 10 Tf 0 0 0 rg  T* (tsnr_functional_image) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (image) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (math_img) Tj (\() Tj (?) Tj (\)) Tj  T* (plotting) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (plot_epi) Tj (\() Tj (tsnr_functional_image) Tj (\)) Tj  T* (plotting) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (show) Tj (\(\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 338.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Changing affine to look similar across images \(simply Resampling images\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 296.2236 cm
+q
+BT 1 0 0 1 0 26 Tm -0.106328 Tw 12 TL /F1 10 Tf 0 0 0 rg (As we can see that the shape of anatomical and functional image are different. We can make them into the) Tj T* 0 Tw 4.080976 Tw (same shape using another image manipulation function ) Tj /F3 10 Tf (image.resample_to_img) Tj /F1 10 Tf (. Image to image) Tj T* 0 Tw (resampling.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 266.2236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.640888 Tw 12 TL /F1 10 Tf 0 0 0 rg (Resample anatomical \(source\) to functional image \(target\) using ) Tj /F3 10 Tf (image.resample_to_img) Tj /F1 10 Tf ( and print the) Tj T* 0 Tw (shape of the output image. This should display that the affines are same for both images.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 221.0236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 12 96 12 re f*
+.960784 .960784 .862745 rg
+n 0 0 324 12 re f*
+BT 1 0 0 1 0 14 Tm 12 TL /F5 10 Tf .25098 .501961 .501961 rg (# Implement here) Tj /F6 10 Tf 0 0 0 rg  T* /F5 10 Tf .25098 .501961 .501961 rg (# TODO 11: Follow the documentation of resample_to_img) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 201.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (More information about ) Tj 0 0 .501961 rg (Resampling) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 168.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (3. Masking brain images for easier Machine Learning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 102.0236 cm
+q
+BT 1 0 0 1 0 50 Tm 1.52784 Tw 12 TL /F1 10 Tf 0 0 0 rg (A common operation in fMRI analyses is masking: extracting particular voxels from the entire dataset,) Tj T* 0 Tw 1.247765 Tw (usually based on a binary brain mask. Masking, at least in fMRI analyses, is often done on the spatial) Tj T* 0 Tw 1.065251 Tw (dimensions of 4D images; as such, masking can be seen as a operation that takes in a 4D image with) Tj T* 0 Tw .014431 Tw (spatial dimensions ) Tj /F3 10 Tf (X*Y*Z) Tj /F1 10 Tf ( and temporal dimension ) Tj /F3 10 Tf (T) Tj /F1 10 Tf ( and returns a ) Tj /F3 10 Tf (T*K) Tj /F1 10 Tf ( 2D array, where ) Tj /F3 10 Tf (K) Tj /F1 10 Tf ( is the number of) Tj T* 0 Tw (voxels that falls under the masking procedure.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+BT 1 0 0 1 0 2 Tm 153.6799 0 Td 12 TL /F1 10 Tf 0 0 0 rg (Cognitive Science and AI - Spring 2022) Tj T* -153.6799 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+48 0 obj
+<<
+/Length 11012
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .244104 Tw (Reasons to mask your data could be, for example, to exclude non-brain voxels \(like in skullstripping\) or to) Tj T* 0 Tw (perform confirmatory region-of-interest \(ROI\) analyses.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 687.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .932126 Tw (Nilearn provides several functions and classes that perform masking, which differ in how extensive they) Tj T* 0 Tw .756098 Tw (are \(some only perform masking on a single image, others do this for multiple images at the same time,) Tj T* 0 Tw .972126 Tw (and/or may additionally perform preprocessing steps\). Importantly, all take in a 4D niimg-like object and) Tj T* 0 Tw (return a 2D numpy array.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 633.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .279985 Tw (We'll first take a look at the most simple and low-level implementation: apply_mask. This function takes in) Tj T* 0 Tw -0.044223 Tw (a 4D image \(which will be masked\), a binary 3D image \(i.e., with only zeros and ones, where ones indicate) Tj T* 0 Tw .67832 Tw (that they should be included\) as mask. Let's do this for our data \(functional image\) using the brain mask) Tj T* 0 Tw (computed on the functional image itself:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 496.5562 cm
+q
+q
+.96447 0 0 .96447 0 0 cm
+q
+1 0 0 1 6.6 6.843137 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 486 132 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 108 24 12 re f*
+.960784 .960784 .862745 rg
+n 30 108 42 12 re f*
+.960784 .960784 .862745 rg
+n 78 108 36 12 re f*
+.960784 .960784 .862745 rg
+n 120 108 42 12 re f*
+.960784 .960784 .862745 rg
+n 0 84 168 12 re f*
+.960784 .960784 .862745 rg
+n 0 72 54 12 re f*
+.960784 .960784 .862745 rg
+n 60 72 6 12 re f*
+.960784 .960784 .862745 rg
+n 72 72 42 12 re f*
+.960784 .960784 .862745 rg
+n 114 72 6 12 re f*
+.960784 .960784 .862745 rg
+n 120 72 96 12 re f*
+.960784 .960784 .862745 rg
+n 216 72 6 12 re f*
+.960784 .960784 .862745 rg
+n 222 72 126 12 re f*
+.960784 .960784 .862745 rg
+n 348 72 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 48 396 12 re f*
+.960784 .960784 .862745 rg
+n 0 24 48 12 re f*
+.960784 .960784 .862745 rg
+n 48 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 54 24 48 12 re f*
+.960784 .960784 .862745 rg
+n 102 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 108 24 126 12 re f*
+.960784 .960784 .862745 rg
+n 234 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 12 48 12 re f*
+.960784 .960784 .862745 rg
+n 48 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 54 12 48 12 re f*
+.960784 .960784 .862745 rg
+n 102 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 108 12 54 12 re f*
+.960784 .960784 .862745 rg
+n 162 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 174 12 126 12 re f*
+.960784 .960784 .862745 rg
+n 300 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 0 48 12 re f*
+.960784 .960784 .862745 rg
+n 48 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 54 0 24 12 re f*
+.960784 .960784 .862745 rg
+n 78 0 12 12 re f*
+.960784 .960784 .862745 rg
+n 96 0 378 12 re f*
+BT 1 0 0 1 0 110 Tm 12 TL /F7 10 Tf 0 .501961 0 rg (from) Tj /F6 10 Tf 0 0 0 rg ( ) Tj /F7 10 Tf 0 0 1 rg (nilearn) Tj /F6 10 Tf 0 0 0 rg ( ) Tj /F7 10 Tf 0 .501961 0 rg (import) Tj /F6 10 Tf 0 0 0 rg ( ) Tj (masking) Tj  T*  T* /F5 10 Tf .25098 .501961 .501961 rg (# Let's compute the epi mask) Tj /F6 10 Tf 0 0 0 rg  T* (func_mask) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (masking) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (compute_epi_mask) Tj (\() Tj (mean_functional_image) Tj (\)) Tj  T*  T* /F5 10 Tf .25098 .501961 .501961 rg (# Visualize the mask that is computed on the mean functional image) Tj /F6 10 Tf 0 0 0 rg  T*  T* (plotting) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (plot_epi) Tj (\() Tj (mean_functional_image) Tj (\)) Tj  T* (plotting) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (plot_roi) Tj (\() Tj (func_mask) Tj (,) Tj ( ) Tj (mean_functional_image) Tj (\)) Tj  T* (plotting) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (show) Tj (\(\)) Tj ( ) Tj /F5 10 Tf .25098 .501961 .501961 rg (# equivalent to %matplotlib inline in Jupyter or Colab Notebook) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 464.5562 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.061751 Tw (Visualizing the mask is always useful as a quality check. For instance we can check whether the mask) Tj T* 0 Tw (strictly overlaps with the images to be masked.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 446.5562 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Now, mask the functional image using ) Tj /F3 10 Tf (nilearn.masking.apply_mask) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 402.9454 cm
+q
+q
+.723798 0 0 .723798 0 0 cm
+q
+1 0 0 1 6.6 9.118564 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 648 48 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 24 30 12 re f*
+.960784 .960784 .862745 rg
+n 30 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 36 24 216 12 re f*
+.960784 .960784 .862745 rg
+n 252 24 12 12 re f*
+.960784 .960784 .862745 rg
+n 264 24 30 12 re f*
+.960784 .960784 .862745 rg
+n 300 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 312 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 318 24 60 12 re f*
+.960784 .960784 .862745 rg
+n 378 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 384 24 30 12 re f*
+.960784 .960784 .862745 rg
+n 414 24 18 12 re f*
+.960784 .960784 .862745 rg
+n 0 12 102 12 re f*
+.960784 .960784 .862745 rg
+n 108 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 120 12 42 12 re f*
+.960784 .960784 .862745 rg
+n 162 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 168 12 60 12 re f*
+.960784 .960784 .862745 rg
+n 228 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 234 12 60 12 re f*
+.960784 .960784 .862745 rg
+n 294 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 306 12 54 12 re f*
+.960784 .960784 .862745 rg
+n 360 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 0 30 12 re f*
+.960784 .960784 .862745 rg
+n 30 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 36 0 132 12 re f*
+.960784 .960784 .862745 rg
+n 168 0 12 12 re f*
+.960784 .960784 .862745 rg
+n 180 0 60 12 re f*
+.960784 .960784 .862745 rg
+n 240 0 12 12 re f*
+.960784 .960784 .862745 rg
+n 252 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 264 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 276 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 282 0 102 12 re f*
+.960784 .960784 .862745 rg
+n 384 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 390 0 30 12 re f*
+.960784 .960784 .862745 rg
+n 420 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 432 0 24 12 re f*
+.960784 .960784 .862745 rg
+n 456 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 462 0 102 12 re f*
+.960784 .960784 .862745 rg
+n 564 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 570 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 576 0 48 12 re f*
+.960784 .960784 .862745 rg
+n 624 0 12 12 re f*
+BT 1 0 0 1 0 26 Tm 12 TL /F6 10 Tf 0 .501961 0 rg (print) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ("Before masking, our data has shape ) Tj /F7 10 Tf .733333 .4 .533333 rg (%s) Tj /F6 10 Tf .729412 .129412 .129412 rg ( ...") Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (%) Tj 0 0 0 rg ( ) Tj (\() Tj (functional) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (shape) Tj (,\)\)) Tj  T* (functional_masked) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (masking) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (apply_mask) Tj (\() Tj (functional) Tj (,) Tj ( ) Tj (func_mask) Tj (\)) Tj  T* 0 .501961 0 rg (print) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ("After masking, shape ) Tj /F7 10 Tf .733333 .4 .533333 rg (%s) Tj /F6 10 Tf .729412 .129412 .129412 rg ( and is a ) Tj /F7 10 Tf .733333 .4 .533333 rg (%s) Tj /F6 10 Tf .729412 .129412 .129412 rg (") Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (%) Tj 0 0 0 rg ( ) Tj (\() Tj (functional_masked) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (shape) Tj (,) Tj ( ) Tj 0 .501961 0 rg (type) Tj 0 0 0 rg (\() Tj (functional_masked) Tj (\)) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (__name__) Tj (\)\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 370.9454 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.065777 Tw (You can see that after masking output shape is a 2D matrix. We have transformed 4D to 2D which we) Tj T* 0 Tw (could input this matrix to decoding model.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 328.9454 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .877765 Tw (Now, repeat the same analysis as above but use face mask that is provided with the Haxby study. This) Tj T* 0 Tw 2.40284 Tw (mask should be called as haxby_dataset['mask_face'] or any other masks that are provided in data) Tj T* 0 Tw (download folder.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 284.1611 cm
+q
+q
+.988825 0 0 .988825 0 0 cm
+q
+1 0 0 1 6.6 6.674587 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 474 36 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 12 60 12 re f*
+.960784 .960784 .862745 rg
+n 0 0 462 12 re f*
+BT 1 0 0 1 0 14 Tm 12 TL /F5 10 Tf .25098 .501961 .501961 rg (# TODO 12:) Tj /F6 10 Tf 0 0 0 rg  T* /F5 10 Tf .25098 .501961 .501961 rg (# Complete the block with face mask or any other mask by following above demo) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 216.1611 cm
+q
+BT 1 0 0 1 0 50 Tm 9.654147 Tw 12 TL /F1 10 Tf 0 0 0 rg (Finally, a masking can be done using a high-level object implemented in module) Tj T* 0 Tw .982706 Tw /F3 10 Tf (nilearn.input_data.NiftiMasker) Tj /F1 10 Tf (. This object that has some extra preprocessing features. Unlike the name) Tj T* 0 Tw 2.759318 Tw (suggests, this class does much more than masking: it also \(optionally\) allows you to spatially and) Tj T* 0 Tw .495697 Tw (temporally preprocess your data! It works slightly differently than the relatively simple functions shown so) Tj T* 0 Tw (far though. We will start understanding it more carefully.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 198.1611 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (We'll start with importing it:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 164.9611 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 0 24 12 re f*
+.960784 .960784 .862745 rg
+n 30 0 108 12 re f*
+.960784 .960784 .862745 rg
+n 144 0 36 12 re f*
+.960784 .960784 .862745 rg
+n 186 0 66 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F7 10 Tf 0 .501961 0 rg (from) Tj /F6 10 Tf 0 0 0 rg ( ) Tj /F7 10 Tf 0 0 1 rg (nilearn.input_data) Tj /F6 10 Tf 0 0 0 rg ( ) Tj /F7 10 Tf 0 .501961 0 rg (import) Tj /F6 10 Tf 0 0 0 rg ( ) Tj (NiftiMasker) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 132.9611 cm
+q
+BT 1 0 0 1 0 14 Tm 1.201318 Tw 12 TL /F1 10 Tf 0 0 0 rg (Importantly, NiftiMasker is not a function, but a \(custom\) class. Read through the documentation of the) Tj T* 0 Tw 0 0 .501961 rg (NiftiMasker) Tj 0 0 0 rg ( class to see which arguments it accepts.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 102.9611 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.22686 Tw (For now, we'll initialize a very simple NiftiMasker that only accepts a particular brain mask \(and set) Tj T* 0 Tw (verbose=True to print some extra information\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+BT 1 0 0 1 0 2 Tm 153.6799 0 Td 12 TL /F1 10 Tf 0 0 0 rg (Cognitive Science and AI - Spring 2022) Tj T* -153.6799 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+49 0 obj
+<<
+/Length 7294
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 739.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 0 36 12 re f*
+.960784 .960784 .862745 rg
+n 42 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 54 0 66 12 re f*
+.960784 .960784 .862745 rg
+n 120 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 126 0 48 12 re f*
+.960784 .960784 .862745 rg
+n 174 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 180 0 54 12 re f*
+.960784 .960784 .862745 rg
+n 234 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 246 0 42 12 re f*
+.960784 .960784 .862745 rg
+n 288 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 294 0 24 12 re f*
+.960784 .960784 .862745 rg
+n 318 0 6 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F6 10 Tf 0 0 0 rg (masker) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (NiftiMasker) Tj (\() Tj (mask_img) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg (func_mask) Tj (,) Tj ( ) Tj (verbose) Tj .4 .4 .4 rg (=) Tj /F7 10 Tf 0 .501961 0 rg (True) Tj /F6 10 Tf 0 0 0 rg (\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 707.8236 cm
+q
+BT 1 0 0 1 0 14 Tm 3.386235 Tw 12 TL /F1 10 Tf 0 0 0 rg (We have now initialized the masker, you can also type simply masker in the console. Now use) Tj T* 0 Tw /F3 10 Tf (masker.fit_transform) Tj /F1 10 Tf ( on functional image specified by a mask that was computed previously.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 662.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 12 138 12 re f*
+.960784 .960784 .862745 rg
+n 144 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 156 12 36 12 re f*
+.960784 .960784 .862745 rg
+n 192 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 198 12 78 12 re f*
+.960784 .960784 .862745 rg
+n 276 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 282 12 60 12 re f*
+.960784 .960784 .862745 rg
+n 342 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 0 30 12 re f*
+.960784 .960784 .862745 rg
+n 30 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 36 0 138 12 re f*
+.960784 .960784 .862745 rg
+n 174 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 180 0 30 12 re f*
+.960784 .960784 .862745 rg
+n 210 0 6 12 re f*
+BT 1 0 0 1 0 14 Tm 12 TL /F6 10 Tf 0 0 0 rg (masked_functional_image) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (masker) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (fit_transform) Tj (\() Tj (functional) Tj (\)) Tj  T* 0 .501961 0 rg (print) Tj 0 0 0 rg (\() Tj (masked_functional_image) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (shape) Tj (\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 618.6236 cm
+q
+BT 1 0 0 1 0 26 Tm .047045 Tw 12 TL /F1 10 Tf 0 0 0 rg (Names can be assigned as per your convenience. Just make sure they are not overwritten. ) Tj /F3 10 Tf (fit) Tj /F1 10 Tf ( does simple) Tj T* 0 Tw -0.022874 Tw (checks on the provided mask and input functional images then ) Tj /F3 10 Tf (transform) Tj /F1 10 Tf ( extracts the apply_mask strategy) Tj T* 0 Tw (i.e., extract 4D to 2D ndarray matrix.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 606.6236 cm
+Q
+q
+1 0 0 1 62.69291 523.6236 cm
+.960784 .960784 .862745 rg
+n 0 83 469.8898 -83 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 57 Tm  T* ET
+q
+1 0 0 1 16 52 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F4 12.5 Tf 15 TL (Note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .867126 Tw (The output shape using low-level or high-level object is same. The advantage of using high-level) Tj T* 0 Tw (object is to apply several operations at one-go. A simple exercise below explains this advantage.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 83 m 469.8898 83 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 83 l S
+n 469.8898 0 m 469.8898 83 l S
+Q
+Q
+q
+1 0 0 1 62.69291 517.6236 cm
+Q
+q
+1 0 0 1 62.69291 475.6236 cm
+q
+BT 1 0 0 1 0 26 Tm 2.638314 Tw 12 TL /F1 10 Tf 0 0 0 rg (Having read the documentation of ) Tj 0 0 .501961 rg (NiftiMasker) Tj 0 0 0 rg (, implement spatial smoothing fwhm=7 and use mask) Tj T* 0 Tw 16.50798 Tw (strategy='epi'. Save the output to a variable named as something like) Tj T* 0 Tw (smoothed_masked_functional_image.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 430.8393 cm
+q
+q
+.988825 0 0 .988825 0 0 cm
+q
+1 0 0 1 6.6 6.674587 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 474 36 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 12 60 12 re f*
+.960784 .960784 .862745 rg
+n 0 0 462 12 re f*
+BT 1 0 0 1 0 14 Tm 12 TL /F5 10 Tf .25098 .501961 .501961 rg (# TODO 13:) Tj /F6 10 Tf 0 0 0 rg  T* /F5 10 Tf .25098 .501961 .501961 rg (# Implement the smoothing and mask strategy parameter here, inspired by above) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 374.8393 cm
+q
+BT 1 0 0 1 0 38 Tm 1.763555 Tw 12 TL /F1 10 Tf 0 0 .501961 rg (NiftiMasker) Tj 0 0 0 rg ( does much more than smoothing. For example, one can do band pass filtering, confound) Tj T* 0 Tw 2.862485 Tw (regression and normalizing the data \(mean 0 and standard deviation to 1\). This object is easy to) Tj T* 0 Tw .238651 Tw (implement and with one line of code you can convert complex neuroimaging representations \(4D\) to brain) Tj T* 0 Tw (representations \(2D\) that can be understood by Machine Learning models.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 258.8596 cm
+q
+q
+.988825 0 0 .988825 0 0 cm
+q
+1 0 0 1 6.6 6.674587 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 474 108 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 84 444 12 re f*
+.960784 .960784 .862745 rg
+n 0 72 228 12 re f*
+.960784 .960784 .862745 rg
+n 0 60 426 12 re f*
+.960784 .960784 .862745 rg
+n 0 48 402 12 re f*
+.960784 .960784 .862745 rg
+n 0 36 462 12 re f*
+.960784 .960784 .862745 rg
+n 0 24 186 12 re f*
+.960784 .960784 .862745 rg
+n 0 12 342 12 re f*
+.960784 .960784 .862745 rg
+n 0 0 312 12 re f*
+BT 1 0 0 1 0 86 Tm 12 TL /F5 10 Tf .25098 .501961 .501961 rg (# TODO 14: Until now we have looked at steps that lead to 2D from 4D. Now,) Tj /F6 10 Tf 0 0 0 rg  T* /F5 10 Tf .25098 .501961 .501961 rg (# Implement a simple masking pipeline:) Tj /F6 10 Tf 0 0 0 rg  T* /F5 10 Tf .25098 .501961 .501961 rg (# 1. Download the fMRI data \(4D\), a new subject from the Haxby dataset.) Tj /F6 10 Tf 0 0 0 rg  T* /F5 10 Tf .25098 .501961 .501961 rg (# E.g., if "subj2 is used already then download "subj1" or "subj3".) Tj /F6 10 Tf 0 0 0 rg  T* /F5 10 Tf .25098 .501961 .501961 rg (# 2. Implement NiftiMasker, specify mask image while initialization of object) Tj /F6 10 Tf 0 0 0 rg  T* /F5 10 Tf .25098 .501961 .501961 rg (# and apply it on the fMRI data) Tj /F6 10 Tf 0 0 0 rg  T* /F5 10 Tf .25098 .501961 .501961 rg (# 3. Plot the mask image overlayed onto mean of fMRI data) Tj /F6 10 Tf 0 0 0 rg  T* /F5 10 Tf .25098 .501961 .501961 rg (# 4. Print the masked output, it should be 2D matrix) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 226.8596 cm
+q
+BT 1 0 0 1 0 14 Tm 3.869269 Tw 12 TL /F1 10 Tf 0 0 0 rg (This assignment covered the basics of Nilearn, transforming 4D to 2D data matrices and other) Tj T* 0 Tw (visualization of brain images. This will get you started for subsequent assignments.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 208.8596 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Happy Hacking!) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+BT 1 0 0 1 0 2 Tm 153.6799 0 Td 12 TL /F1 10 Tf 0 0 0 rg (Cognitive Science and AI - Spring 2022) Tj T* -153.6799 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+50 0 obj
+<<
+/Nums [ 0 51 0 R 1 52 0 R 2 53 0 R 3 54 0 R 4 55 0 R 
+  5 56 0 R 6 57 0 R 7 58 0 R ]
+>>
+endobj
+51 0 obj
+<<
+/S /D /St 1
+>>
+endobj
+52 0 obj
+<<
+/S /D /St 2
+>>
+endobj
+53 0 obj
+<<
+/S /D /St 3
+>>
+endobj
+54 0 obj
+<<
+/S /D /St 4
+>>
+endobj
+55 0 obj
+<<
+/S /D /St 5
+>>
+endobj
+56 0 obj
+<<
+/S /D /St 6
+>>
+endobj
+57 0 obj
+<<
+/S /D /St 7
+>>
+endobj
+58 0 obj
+<<
+/S /D /St 8
+>>
+endobj
+xref
+0 59
+0000000000 65535 f 
+0000000073 00000 n 
+0000000170 00000 n 
+0000000277 00000 n 
+0000000389 00000 n 
+0000000504 00000 n 
+0000000699 00000 n 
+0000000920 00000 n 
+0000001138 00000 n 
+0000001257 00000 n 
+0000001492 00000 n 
+0000001682 00000 n 
+0000001872 00000 n 
+0000002069 00000 n 
+0000002266 00000 n 
+0000002458 00000 n 
+0000002662 00000 n 
+0000002776 00000 n 
+0000002882 00000 n 
+0000002993 00000 n 
+0000003253 00000 n 
+0000003459 00000 n 
+0000003697 00000 n 
+0000003873 00000 n 
+0000004105 00000 n 
+0000004310 00000 n 
+0000004535 00000 n 
+0000004783 00000 n 
+0000005008 00000 n 
+0000005271 00000 n 
+0000005496 00000 n 
+0000005759 00000 n 
+0000006022 00000 n 
+0000006254 00000 n 
+0000006360 00000 n 
+0000006655 00000 n 
+0000006729 00000 n 
+0000006857 00000 n 
+0000006980 00000 n 
+0000007129 00000 n 
+0000007265 00000 n 
+0000007418 00000 n 
+0000007527 00000 n 
+0000014417 00000 n 
+0000022086 00000 n 
+0000031195 00000 n 
+0000043316 00000 n 
+0000053633 00000 n 
+0000063888 00000 n 
+0000074953 00000 n 
+0000082299 00000 n 
+0000082406 00000 n 
+0000082440 00000 n 
+0000082474 00000 n 
+0000082508 00000 n 
+0000082542 00000 n 
+0000082576 00000 n 
+0000082610 00000 n 
+0000082644 00000 n 
+trailer
+<<
+/ID 
+[<f0a139aa26be561da83e2c802d8dff09><f0a139aa26be561da83e2c802d8dff09>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 34 0 R
+/Root 33 0 R
+/Size 59
+>>
+startxref
+82678
+%%EOF
